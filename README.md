@@ -28,15 +28,11 @@
 
 ---
 
-### 💻 About Me
-
+### 
+<h3 align="center">💻 About Me</h3>
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left"> name :  Abdelhamid Med Amine <br><br>- 🔭 role : Independent Researcher & Web Systems Architect<br>- 📚 interests : Computer Science , High-Performance Systems , Academic Research <br>- ⚡ aspirations : Contributing to the future of decentralized web architectures <br> status : Currently deep-diving into Clean Architecture & Advanced CS Theory </p>
+<p align="center"> name :  Abdelhamid Med Amine <br><br>- 🔭 role : Independent Researcher & Web Systems Architect<br>- 📚 interests : Computer Science , High-Performance Systems , Academic Research <br>- ⚡ aspirations : Contributing to the future of decentralized web architectures <br> 👩‍💻 status : Currently deep-diving into Clean Architecture & Advanced CS Theory </p>
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
