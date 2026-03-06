@@ -23,29 +23,13 @@
 
 ### 🚀 Tech Stack Highlights
 
-<p align="left">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-</p>
+**Programming Languages**
+![Python](https://img.shields.io) ![C++](https://img.shields.io) ![C#](https://img.shields.io) ![Dart](https://img.shields.io) ![JavaScript](https://img.shields.io) ![PHP](https://img.shields.io)
 
-<p align="left">
-  <!-- Frameworks & Tools -->
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-</p>
+**Frameworks & Tools**
+![Django](https://img.shields.io) ![Laravel](https://img.shields.io) ![Flutter](https://img.shields.io) ![PyTorch](https://img.shields.io)
 
-<p align="left">
-  <!-- Infrastructure & DB -->
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-</p>
+**Infrastructure & DB**
+![MySQL](https://img.shields.io) ![VS Code](https://img.shields.io) ![MATLAB](https://img.shields.io)
 
 ---
