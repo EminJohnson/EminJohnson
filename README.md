@@ -30,13 +30,13 @@
 
 ### 💻 About Me
 ```json
-{
+
   "name": "Abdelhamid Med Amine",
   "role": "Independent Researcher & Web Systems Architect",
   "interests": ["Computer Science", "High-Performance Systems", "Academic Research"],
   "aspirations": "Contributing to the future of decentralized web architectures",
   "status": "Currently deep-diving into Clean Architecture & Advanced CS Theory"
-}
+
 
 ###
 
