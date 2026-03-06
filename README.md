@@ -18,3 +18,34 @@
   "aspirations": "Contributing to the future of decentralized web architectures",
   "status": "Currently deep-diving into Clean Architecture & Advanced CS Theory"
 }
+
+
+
+### 🚀 Tech Stack Highlights
+
+<p align="left">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+</p>
+
+<p align="left">
+  <!-- Frameworks & Tools -->
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+</p>
+
+<p align="left">
+  <!-- Infrastructure & DB -->
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+</p>
+
+---
