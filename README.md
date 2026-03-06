@@ -26,13 +26,17 @@
   <p><i>"Bridging the gap between theoretical research and scalable system architecture"</i></p>
 </div>
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+### 💻 About Me
+```json
+{
+  "name": "Abdelhamid Med Amine",
+  "role": "Independent Researcher & Web Systems Architect",
+  "interests": ["Computer Science", "High-Performance Systems", "Academic Research"],
+  "aspirations": "Contributing to the future of decentralized web architectures",
+  "status": "Currently deep-diving into Clean Architecture & Advanced CS Theory"
+}
 
 ###
 
