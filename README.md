@@ -1,10 +1,9 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app" width="100%" />
-</div>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app" width="100%" />
+  
   <h3>🔬 Independent Researcher | 🏗️ Web Architect | 🎓 Aspiring Academic</h3>
-  <p><i>"Bridging the gap between theoretical research and scalable system architecture."</i></p>
+  <p><i>"Bridging the gap between theoretical research and scalable system architecture"</i></p>
 </div>
 
 ---
@@ -18,18 +17,3 @@
   "aspirations": "Contributing to the future of decentralized web architectures",
   "status": "Currently deep-diving into Clean Architecture & Advanced CS Theory"
 }
-
-
-
-### 🚀 Tech Stack Highlights
-
-**Programming Languages**
-![Python](https://img.shields.io) ![C++](https://img.shields.io) ![C#](https://img.shields.io) ![Dart](https://img.shields.io) ![JavaScript](https://img.shields.io) ![PHP](https://img.shields.io)
-
-**Frameworks & Tools**
-![Django](https://img.shields.io) ![Laravel](https://img.shields.io) ![Flutter](https://img.shields.io) ![PyTorch](https://img.shields.io)
-
-**Infrastructure & DB**
-![MySQL](https://img.shields.io) ![VS Code](https://img.shields.io) ![MATLAB](https://img.shields.io)
-
----
