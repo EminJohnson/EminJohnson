@@ -1,13 +1,12 @@
 <div align="center">
 
-# 👨‍🔬 Abdelhamid Med Amine
+# 🧪 Abdelhamid Med Amine
 ### Independent Researcher in Computer Science | Web Systems Architecture | Aspiring Academic
 
 <p align="center">
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
-  <img src="https://img.shields.io" />
+  <a href="https://linkedin.com"><img src="https://img.shields.io" /></a>
+  <a href="https://t.me"><img src="https://img.shields.io" /></a>
+  <a href="https://instagram.com"><img src="https://img.shields.io" /></a>
 </p>
 
 ---
@@ -17,30 +16,24 @@
 </div>
 
 ### 🛠️ Core Stack & Technologies
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev" />
-  <br>
-  <img src="https://skillicons.dev" />
-</div>
+</p>
 
 ---
 
 ### 📊 Professional Insights
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app" alt="trophy graph"  />
-  <br>
-  <img src="https://streak-stats.demolab.com" height="150" alt="streak graph"  />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com" alt="streak graph" />
 </div>
 
 ---
 
 ### 👾 Activity Pulse
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EminJohnson/EminJohnson/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EminJohnson/EminJohnson/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EminJohnson/EminJohnson/output/pacman-contribution-graph.svg" width="80%">
-  </picture>
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com" width="100%">
 </div>
 
 <br>
