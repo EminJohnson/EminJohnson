@@ -1,43 +1,20 @@
 <div align="center">
-
-# 🧪 Abdelhamid Med Amine
-### Independent Researcher in Computer Science | Web Systems Architecture | Aspiring Academic
-
-<p align="center">
-  <a href="https://linkedin.com"><img src="https://img.shields.io" /></a>
-  <a href="https://t.me"><img src="https://img.shields.io" /></a>
-  <a href="https://instagram.com"><img src="https://img.shields.io" /></a>
-</p>
-
----
-
-> *"Transforming complex theoretical concepts into robust architectural realities."*
-
+  <img src="https://capsule-render.vercel.app" width="100%" />
 </div>
 
-### 🛠️ Core Stack & Technologies
-<p align="center">
-  <img src="https://skillicons.dev" />
-</p>
-
----
-
-### 📊 Professional Insights
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app" alt="trophy graph"  />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com" alt="streak graph" />
+  <h3>🔬 Independent Researcher | 🏗️ Web Architect | 🎓 Aspiring Academic</h3>
+  <p><i>"Bridging the gap between theoretical research and scalable system architecture."</i></p>
 </div>
 
 ---
 
-### 👾 Activity Pulse
-<div align="center">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com" width="100%">
-</div>
-
-<br>
-
-<div align="center">
-  <sub>Built with precision by <b>Abdelhamid Med Amine</b> • 2026</sub>
-</div>
+### 💻 About Me
+```json
+{
+  "name": "Abdelhamid Med Amine",
+  "role": "Independent Researcher & Web Systems Architect",
+  "interests": ["Computer Science", "High-Performance Systems", "Academic Research"],
+  "aspirations": "Contributing to the future of decentralized web architectures",
+  "status": "Currently deep-diving into Clean Architecture & Advanced CS Theory"
+}
