@@ -66,64 +66,7 @@
   </table>
 </div>
 
-<br/>
 
-<!-- Tech Stack - Modern Glassmorphism Cards -->
-<h2 align="center">🛠️ Modern Tech Stack</h2>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="48" height="48" />
-        <br>C++
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="48" height="48" />
-        <br>C#
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="PHP" width="48" height="48" />
-        <br>PHP
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
-        <br>MySQL
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="48" height="48" />
-        <br>GraphQL
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-        <br>Laravel
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-        <br>HTML5
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-        <br>CSS3
-      </td>
-      <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=debian" width="48" height="48" alt="Debian" />
-        <br>Debian
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-
-<!-- HEADER - Mystic Neon Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,20:4B0082,40:9400D3,60:00BFFF,80:4B0082,100:8A2BE2&height=280&section=header&text=Abdelhamid%20Med%20Amine&fontSize=44&fontColor=fff&animation=twinkling&desc=⚡%20Digital%20Architect%20%7C%20Research%20Alchemist%20⚡&descSize=18&descAlignY=65&descColor=00FFFF"/>
 
 <!-- Animated Matrix Avatar -->
 <div align="center">
@@ -193,85 +136,62 @@
 
 <br/>
 
-<!-- Tech Stack - Neon Grid -->
-<h2 align="center" style="color: #00FFFF; text-shadow: 0 0 15px cyan, 0 0 30px blue;">⚡ NEURAL INTERFACE: TECH_LOADOUT ⚡</h2>
-<div align="center">
-  <table style="background: rgba(0, 0, 0, 0.7); border: 2px solid #9400D3; border-radius: 25px; padding: 20px; box-shadow: 0 0 50px #8A2BE2;">
-    <tr>
-      <td align="center" style="padding: 20px;">
-        <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,csharp,php,laravel,mysql,graphql,react,nodejs,debian&perline=6&theme=dark" />
-      </td>
-    </tr>
-  </table>
-  <p style="color: #00FF00; font-size: 14px;">&lt;!-- QUANTUM_STACK_ACTIVE --&gt;</p>
-</div>
+
 
 <br/>
 
-<!-- GitHub Stats with Neon Theme -->
-<h2 align="center" style="color: #FF00FF; text-shadow: 0 0 15px magenta;">🔥 QUANTUM_ENERGY_MATRIX</h2>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=EminJohnson&theme=highcontrast&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&background=0,000000,2E0854&stroke=00FFFF&ring=FF00FF&fire=FF00FF&currStreakNum=00FFFF&sideNums=FF00FF&currStreakLabel=FF00FF&sideLabels=FFFFFF&dates=00FFFF" alt="GitHub Streak" />
-</p>
-
-<!-- Activity Graph with Cyberpunk Theme -->
-<h2 align="center" style="color: #00FFFF; text-shadow: 0 0 15px cyan;">📡 NEURAL_ACTIVITY_SCAN</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EminJohnson&theme=react-dark&hide_border=true&area=true&custom_title=Neural%20Synapse%20Activity%20Pattern&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFFFF&area_color=8A2BE2" width="95%" />
-</p>
-
-<!-- Metrics Dashboard - Neon Cards -->
-<h2 align="center" style="color: #FF00FF; text-shadow: 0 0 20px magenta;">📊 QUANTUM_METRICS_DASHBOARD</h2>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EminJohnson&theme=radical&hide_border=true" width="95%" style="border: 2px solid #FF00FF; box-shadow: 0 0 30px #FF00FF;" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EminJohnson&theme=radical&hide_border=true" style="border: 2px solid #00FFFF; box-shadow: 0 0 20px #00FFFF;" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EminJohnson&theme=radical&hide_border=true" style="border: 2px solid #FF00FF; box-shadow: 0 0 20px #FF00FF;" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EminJohnson&theme=radical&hide_border=true" style="border: 2px solid #00FFFF; box-shadow: 0 0 20px #00FFFF;" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EminJohnson&theme=radical&hide_border=true&utcOffset=1" style="border: 2px solid #FF00FF; box-shadow: 0 0 20px #FF00FF;" />
-</p>
-
-<!-- 3D Stats Cube (Conceptual) -->
-<h2 align="center" style="color: #00FFFF; text-shadow: 0 0 15px cyan;">🧊 DIMENSIONAL_DATA_FLOW</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EminJohnson&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&border_color=8A2BE2" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EminJohnson&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF00FF&text_color=00FFFF&border_color=8A2BE2" width="48%" />
-</p>
-
-<!-- Spotify / Music Status (إذا أردت) -->
-<h2 align="center" style="color: #00FF00; text-shadow: 0 0 15px lime;">🎵 NOW_PLAYING.EXE</h2>
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=00FFFF&bar_color_cover=true" width="300" />
-</p>
-
-<!-- Secret Terminal Message -->
+<!-- Tech Stack - Modern Glassmorphism Cards -->
+<h2 align="center">🛠️ Modern Tech Stack</h2>
 <div align="center">
-  <details>
-    <summary style="color: #00FF00; cursor: pointer;">🔓 [ACCESS_HIDDEN_TERMINAL]</summary>
-    <pre style="background: #0D0208; color: #00FF00; padding: 20px; border: 2px solid #00FF00; border-radius: 10px;">
->_ SYSTEM: Quantum Core Online
->_ NEURAL NETWORK: 78% Synced
->_ ENCRYPTION: AES-256 + Quantum
->_ MESSAGE: "The future is already here, we're just architecting it"
->_ 
->_ ACCESS GRANTED: Welcome to the matrix, Neo.
-    </pre>
-  </details>
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="48" height="48" />
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="48" height="48" />
+        <br>C++
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="48" height="48" />
+        <br>C#
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="PHP" width="48" height="48" />
+        <br>PHP
+      </td>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="48" height="48" />
+        <br>MySQL
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="48" height="48" />
+        <br>GraphQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
+        <br>Laravel
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+        <br>HTML5
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+        <br>CSS3
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=debian" width="48" height="48" alt="Debian" />
+        <br>Debian
+      </td>
+    </tr>
+  </table>
 </div>
 
-<!-- Animated Footer with Glitch Effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,25:8A2BE2,50:00FFFF,75:4B0082,100:FF00FF&height=150&section=footer&fontSize=30&fontColor=fff&animation=twinkling&desc=%3E_System%20Ready%20for%20Next%20Mission%20%3C&descAlignY=80&descSize=18&descColor=00FFFF"/>
-
-<!-- Hidden Glowing Effect (Comment) -->
-<!-- SYSTEM STATUS: QUANTUM ENTANGLED | DO NOT DISTURB -->
-
-
-
+<br/>
 
 
 
