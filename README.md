@@ -9,12 +9,7 @@
 
   <!-- Bio Card with Neon Gradient -->
   <div style="background: linear-gradient(135deg, rgba(138,43,226,0.9) 0%, rgba(75,0,130,0.9) 50%, rgba(0,191,255,0.9) 100%); padding: 25px; border-radius: 30px; width: 80%; margin: 20px auto; border: 3px solid white; box-shadow: 0 0 60px #00FFFF, inset 0 0 30px #FF00FF;">
-    <h3 style="color: #FFFFFF; text-shadow: 0 0 20px cyan, 0 0 40px magenta; font-size: 28px; margin: 10px;">
-      🔬 QUANTUM RESEARCHER | 🏗️ NEURAL ARCHITECT | 🎓 DIGITAL ALCHEMIST
-    </h3>
-    <p style="color: #FFD700; font-size: 20px; text-shadow: 0 0 15px orange;">
-      <i>"Bridging the gap between theoretical quantum physics and scalable digital dimensions"</i>
-    </p>
+  
   </div>
 </div>
 
