@@ -99,7 +99,7 @@
 
 <!-- GitHub Snake Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AhmedYaser-Mt/AhmedYaser-Mt/output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/EminJohnson/EminJohnson/output/github-snake-dark.svg" />
 </p>
 
 ---
