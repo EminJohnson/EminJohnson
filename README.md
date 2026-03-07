@@ -138,37 +138,6 @@
 
 <br/>
 
-<!-- PROFILE SECTION - Holographic Card -->
-<h2 align="center" style="color: #00FFFF; text-shadow: 0 0 20px cyan, 0 0 40px blue;">🧬 SYSTEM_PROFILE: QUANTUM_SIGNATURE</h2>
-<div align="center">
-  <table style="background: rgba(0,0,0,0.8); border: 3px solid #FF00FF; border-radius: 30px; padding: 20px; box-shadow: 0 0 80px #8A2BE2, inset 0 0 40px #00FFFF;">
-    <tr>
-      <td width="60%" style="padding: 30px;">
-        <h3 style="color: #00FFFF; border-bottom: 2px solid #FF00FF;">🔑 ACCESS_GRANTED: BIOMETRIC_SCAN</h3>
-        <ul style="list-style-type: none; padding: 0;">
-          <li style="margin: 20px 0; font-size: 18px;">🌐 <span style="color: #FF00FF; font-weight: bold;">LOCATION:</span> <span style="color: #FFFFFF;">Algeria, North Africa Sector</span></li>
-          <li style="margin: 20px 0; font-size: 18px;">⚡ <span style="color: #FF00FF; font-weight: bold;">PRIMARY_FUNCTION:</span> <span style="color: #FFFFFF;">Independent Researcher & Systems Architect</span></li>
-          <li style="margin: 20px 0; font-size: 18px;">🧪 <span style="color: #FF00FF; font-weight: bold;">RESEARCH_FOCUS:</span> <span style="color: #FFFFFF;">Distributed Intelligence, Clean Architecture, Quantum Computing</span></li>
-          <li style="margin: 20px 0; font-size: 18px;">🎯 <span style="color: #FF00FF; font-weight: bold;">CURRENT_MISSION:</span> <span style="color: #FFFFFF;">Decentralizing Web Architectures</span></li>
-          <li style="margin: 20px 0; font-size: 18px;">📡 <span style="color: #FF00FF; font-weight: bold;">STATUS:</span> <span style="color: #00FF00;">🟢 QUANTUM_ENTANGLED</span></li>
-        </ul>
-        
-        <!-- Energy Bar -->
-        <div style="background: #222; border-radius: 30px; padding: 3px; margin-top: 30px;">
-          <div style="background: linear-gradient(90deg, #FF00FF, #00FFFF, #FF00FF); width: 94%; padding: 15px; border-radius: 30px; text-align: center; color: black; font-weight: bold;">
-            ⚡ QUANTUM ENERGY: 94% ⚡
-          </div>
-        </div>
-      </td>
-      <td width="40%" style="padding: 20px;">
-        <!-- 3D Stats Card -->
-        <img src="https://github-readme-stats.vercel.app/api?username=EminJohnson&show_icons=true&theme=radical&bg_color=000000&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&border_color=8A2BE2&border_radius=20&hide_border=false&count_private=true" width="400"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
 
 <!-- TECH STACK - Holographic Grid -->
 <h2 align="center" style="color: #FF00FF; text-shadow: 0 0 20px magenta, 0 0 40px purple;">🛠️ QUANTUM_TOOLCHAIN: ACTIVE_MODULES</h2>
