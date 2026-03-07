@@ -70,11 +70,11 @@
       <td style="padding: 30px;">
         <h2 style="color: #00FFFF; text-shadow: 0 0 15px cyan;">🧬 SYSTEM_PROFILE.EXE</h2>
         <ul style="list-style-type: none; padding: 0;">
-          <li style="margin: 15px 0; color: #E0E0E0;">🌍 <span style="color: #FF00FF; font-weight: bold;">LOCATION:</span> Algeria [NORTH_AFRICA_SECTOR]</li>
-          <li style="margin: 15px 0; color: #E0E0E0;">⚡ <span style="color: #FF00FF; font-weight: bold;">CLASS:</span> Quantum Architect & Neural Researcher</li>
-          <li style="margin: 15px 0; color: #E0E0E0;">🧬 <span style="color: #FF00FF; font-weight: bold;">FOCUS:</span> Distributed Intelligence | Clean Architecture | Quantum Computing</li>
-          <li style="margin: 15px 0; color: #E0E0E0;">🎯 <span style="color: #FF00FF; font-weight: bold;">MISSION:</span> Decentralizing the digital universe</li>
-          <li style="margin: 15px 0; color: #E0E0E0;">📡 <span style="color: #FF00FF; font-weight: bold;">STATUS:</span> Deep-diving into Quantum Algorithms & Neural Networks</li>
+          <li>🇩🇿 <b>Based in Algeria</b></li>
+          <li>🔭 <b>Role:</b> Independent Researcher & Web Systems Architect</li>
+          <li>📚 <b>Interests:</b> Distributed Systems, Clean Architecture, High-Performance Computing</li>
+          <li>⚡ <b>Aspirations:</b> Contributing to the future of decentralized web architectures</li>
+          <li>👩‍💻 <b>Status:</b> Currently deep-diving into Advanced CS Theory</li>
         </ul>
       </td>
       <td style="padding: 20px;">
