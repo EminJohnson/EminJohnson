@@ -26,18 +26,14 @@
 
 <!-- Social Media Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/abdelhamid-med-amine-ej-academy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=0A66C2&cacheSeconds=3600" />
   </a>
-  <a href="mailto:your.email@gmail.com" target="_blank">
+  <a href="mailto:amine23444@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=EA4335" />
   </a>
   <a href="https://t.me/eminjonson722" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000&color=26A5E4" />
-  </a>
-  <a href="https://twitter.com/your-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=x&logoColor=white&labelColor=000000&color=1D9BF0" />
-  </a>
   <a href="https://github.com/EminJohnson" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=6e5494" />
   </a>
