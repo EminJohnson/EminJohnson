@@ -125,35 +125,6 @@
 <br/>
 
 
-
-
-
-
-
-
-
-
-
-  
-
-<br/>
-
-
-<!-- TECH STACK - Holographic Grid -->
-<h2 align="center" style="color: #FF00FF; text-shadow: 0 0 20px magenta, 0 0 40px purple;">🛠️ QUANTUM_TOOLCHAIN: ACTIVE_MODULES</h2>
-<div align="center">
-  <table style="background: #0A0A0A; border: 2px solid #00FFFF; border-radius: 30px; padding: 30px; box-shadow: 0 0 60px #00FFFF;">
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,csharp,php,laravel,mysql,graphql,react,nodejs,debian,docker,kubernetes,aws,linux&perline=8&theme=dark" />
-      </td>
-    </tr>
-  </table>
-  <p style="color: #00FF00; font-family: monospace;">&lt;!-- QUANTUM_STACK_LOADED: ALL_SYSTEMS_NOMINAL --&gt;</p>
-</div>
-
-<br/>
-
 <!-- GITHUB TROPHIES - 3D Collection -->
 <h2 align="center" style="color: #00FFFF; text-shadow: 0 0 20px cyan;">🏆 QUANTUM_ACHIEVEMENTS_UNLOCKED</h2>
 <p align="center">
