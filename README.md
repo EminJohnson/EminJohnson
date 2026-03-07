@@ -157,12 +157,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EminJohnson&theme=radical&hide_border=true&utcOffset=1" style="border: 3px solid #FF00FF; border-radius: 20px; box-shadow: 0 0 40px #FF00FF; margin: 10px;" />
 </p>
 
-<!-- WAKATIME STATS (إذا كنت تستخدم WakaTime) -->
-<h2 align="center" style="color: #00FFFF; text-shadow: 0 0 20px cyan;">⏳ QUANTUM_TIME_DILATION</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EminJohnson&theme=radical&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=8A2BE2&border_radius=20&layout=compact" width="70%"/>
-</p>
-
 
 <!-- FOOTER - Enhanced -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,25:4B0082,50:9400D3,75:00BFFF,100:8A2BE2&height=220&section=footer&text=⚡%20QUANTUM%20PORTAL%20CLOSING%20⚡&fontSize=26&fontColor=fff&animation=twinkling&desc=See%20you%20in%20another%20dimension...%20🌌&descAlignY=70&descSize=20&descColor=FF00FF"/>
