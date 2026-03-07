@@ -1,14 +1,6 @@
   <!-- HEADER -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Ahmed%20Yaser%20Metwalli&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
-
-<h1 align="center">👋 Hello, I'm Ahmed Yaser</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=C%2B%2B%20%7C%20C%23%20%7C%20.NET%20%7C%20Windows%20Forms%20%7C%20SQL%20Server;OOP%20%7C%20Data%20Structures;Algorithms%20%26%20Problem%20Solving;Future%20Software%20Developer"/>
-</p>
-
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Abdelhmaid%20Med%20Amine&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
 ---                                                                                                                                        
 <div align="center">
@@ -44,6 +36,13 @@
 </div>
 
 ---
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=C%2B%2B%20%7C%20C%23%20%7C%20.NET%20%7C%20Windows%20Forms%20%7C%20SQL%20Server;OOP%20%7C%20Data%20Structures;Algorithms%20%26%20Problem%20Solving;Future%20Software%20Developer"/>
+</p>
+
+
+
+
 
 ### 💻 About Me
 - 🇩🇿 Based in **Algeria**.
