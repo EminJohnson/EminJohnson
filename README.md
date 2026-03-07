@@ -99,3 +99,57 @@
   </a>
 </p>
 
+
+
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com" />
+  <h1>Hi, I'm Abdelhamid Med Amine 👋</h1>
+  <h3>🔬 Independent Researcher | 🏗️ Web Architect | 🎓 Aspiring Academic</h3>
+  <p><i>"Bridging the gap between theoretical research and scalable system architecture"</i></p>
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu&" />
+</div>
+
+---
+
+### 💻 About Me
+- 🇩🇿 Based in **Algeria**.
+- 🔭 **Role:** Independent Researcher & Web Systems Architect.
+- 📚 **Interests:** Distributed Systems, Clean Architecture, and High-Performance Computing.
+- ⚡ **Aspirations:** Contributing to the future of decentralized web architectures.
+- 👩‍💻 **Status:** Currently deep-diving into Advanced CS Theory.
+
+---
+
+### 🛠️ Tech Stack
+<div align="left">
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+</div>
+
+---
+
+<!-- GitHub Stats -->
+<h1 align="center">📈 GitHub Analytics</h1>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com" /><br>
+  <img src="https://github-readme-activity-graph.vercel.app" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app" />
+  <img src="https://github-profile-summary-cards.vercel.app" />
+</p>
+
+---
+
+### 📬 Connect with me
+<p align="left">
+  <a href="https://linkedin.com"><img src="https://img.shields.io" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io" /></a>
+</p>
