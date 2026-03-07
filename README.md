@@ -1,26 +1,3 @@
-  <!-- HEADER -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Abdelhamid%20Med%20Amine&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
-
-<div align="center">
-<img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
-</div>
-
-<!-- Social Media Links -->
-
-<p align="center">
-<!-- استبدل الرابط أدناه برابط حسابك على لينكدإن -->
-<a href="https://www.linkedin.com/in/your-profile" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-</a>
-<!-- استبدل الإيميل أدناه بإيميلك الحقيقي -->
-<a href="mailto:your.email@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" />
-</a>
-<a href="https://t.me/eminjonson722" target="_blank">
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram" />
-</a>
-</p>
 
 
 <!-- Profile Header -->
@@ -143,58 +120,6 @@
 </div>
 
 <br/>
-
-<!-- GitHub Streak - Modern Card -->
-<h2 align="center">🔥 GitHub Performance</h2>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=EminJohnson&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" />
-</p>
-
-<!-- Activity Graph - Modernized -->
-<h2 align="center">📈 Contribution Graph</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EminJohnson&theme=tokyo-night&hide_border=true&area=true&custom_title=My%20Contribution%20Landscape" width="90%" />
-</p>
-
-<!-- GitHub Metrics Dashboard - Modern Cards -->
-<h2 align="center">📊 Metrics Dashboard</h2>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EminJohnson&theme=tokyonight&hide_border=true" width="90%" alt="Profile Details"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EminJohnson&theme=tokyonight&hide_border=true" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EminJohnson&theme=tokyonight&hide_border=true" alt="Top Languages by Commit" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EminJohnson&theme=tokyonight&hide_border=true" alt="Stats Summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EminJohnson&theme=tokyonight&hide_border=true&utcOffset=1" alt="Commits per Day" />
-</p>
-
-<!-- Animated Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer&fontSize=24&fontColor=fff&animation=twinkling&desc=Let's%20connect%20and%20build%20the%20future&descAlignY=75"/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!-- HEADER - Mystic Neon Wave -->
