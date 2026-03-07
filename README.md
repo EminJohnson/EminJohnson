@@ -8,7 +8,7 @@
 
   <!-- Animated Matrix Rain Text -->
   <h2>
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=32&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E_+System+Boot+Sequence+Initiated...;%3E_+Quantum+Core+Online;%3E_+Neural+Network+Connected;%3E_+Welcome+to+the+Future+%F0%9F%9A%80" alt="Matrix Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=32&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E_+System+Boot+Sequence+Initiated...;%3E_+Independet+Researcher;%3E_+Web+Architect;%3E_+Aspiring+Academic;%3E_+Welcome+to+the+Future+%F0%9F%9A%80" alt="Matrix Typing SVG" />
   </h2>
 
   <!-- Bio Card with Neon Gradient -->
