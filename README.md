@@ -3,7 +3,7 @@
 </div>
 
 <!-- Social Media Links -->
-<h1 align="center">📬 Contact Me</h1>
+<!-- <h1 align="center">📬 Contact Me</h1> -->
 <p align="center">
   <a href="www.linkedin.com/in/abdelhamid-med-amine-ej-academy">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
