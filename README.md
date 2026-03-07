@@ -13,12 +13,6 @@
   </div>
 </div>
 
-
-  
-  <!-- Glowing Typing Effect -->
-  <h2>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=500&lines=%3E_+System+Online...;%3E_+Initializing+Neural+Link;%3E_+Welcome+to+the+Future" alt="Typing SVG" />
-  </h2>
   <div align="center">
 <h3>🔬 Independent Researcher | 🏗️ Web Architect | 🎓 Aspiring Academic</h3>
 <p><i>"Bridging the gap between theoretical research and scalable system architecture"</i></p>
