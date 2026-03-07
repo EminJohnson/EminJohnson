@@ -2,7 +2,7 @@
 <!-- HEADER - Mystic Neon Wave with 3D Effect -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,20:4B0082,40:9400D3,60:00BFFF,80:4B0082,100:8A2BE2&height=300&section=header&text=⚡%20Abdelhamid%20Med%20Amine%20⚡&fontSize=42&fontColor=fff&animation=twinkling&desc=Quantum%20Architect%20%7C%20Digital%20Alchemist%20%7C%20Neural%20Researcher&descSize=18&descAlignY=65&descColor=00FFFF"/>
 
-<!-- 3D Avatar with Glitch Effect - تم الإصلاح -->
+<!-- 3D Avatar with Glitch Effect -->
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVlYzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="300" style="border-radius: 50%; border: 4px solid #00FFFF; box-shadow: 0 0 50px #FF00FF, 0 0 100px #00FFFF;" alt="3D Avatar"/>
 
@@ -11,7 +11,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=32&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E_+System+Boot+Sequence+Initiated...;%3E_+Quantum+Core+Online;%3E_+Neural+Network+Connected;%3E_+Welcome+to+the+Future+%F0%9F%9A%80" alt="Matrix Typing SVG" />
   </h2>
 
-  <!-- Bio Card with Neon Gradient - تم إضافة النص -->
+  <!-- Bio Card with Neon Gradient -->
   <div style="background: linear-gradient(135deg, rgba(138,43,226,0.95) 0%, rgba(75,0,130,0.95) 50%, rgba(0,191,255,0.95) 100%); padding: 30px; border-radius: 40px; width: 85%; margin: 20px auto; border: 4px solid #FFFFFF; box-shadow: 0 0 80px #00FFFF, inset 0 0 40px #FF00FF;">
     <h2 style="color: #FFFFFF; text-shadow: 0 0 20px cyan, 0 0 40px magenta; font-size: 32px; margin: 10px; text-align: center;">
       🔬 Independent Researcher | 🏗️ Web Architect | 🎓 Aspiring Academic
@@ -24,7 +24,7 @@
 
 <br/>
 
-<!-- Social Media Links مع تأثيرات نيون محسنة -->
+<!-- Social Media Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=0A66C2&cacheSeconds=3600" />
@@ -43,7 +43,7 @@
   </a>
 </p>
 
-<!-- Visitor Badge مع تأثير نيون -->
+<!-- Visitor Badge ->
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=EminJohnson.EminJohnson&left_text=QUANTUM%20VISITORS&right_color=8A2BE2&left_color=00FFFF" />
   <h4 style="color: #FF00FF; text-shadow: 0 0 15px magenta;">⚡ QUANTUM ENTANGLEMENT: ACTIVE ⚡</h4>
@@ -75,9 +75,6 @@
 
 <br/>
 
-
-
-<br/>
 
 <!-- Tech Stack - Modern Glassmorphism Cards -->
 <h2 align="center">🛠️ Modern Tech Stack</h2>
@@ -131,13 +128,6 @@
 </div>
 
 <br/>
-
-
-<!-- GITHUB TROPHIES - 3D Collection -->
-<h2 align="center" style="color: #00FFFF; text-shadow: 0 0 20px cyan;">🏆 QUANTUM_ACHIEVEMENTS_UNLOCKED</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EminJohnson&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=MultiLanguage,Commits,PullRequest,Issues,Stars,Followers,Repositories,Organizations" width="95%" style="border-radius: 20px; border: 2px solid #FF00FF; box-shadow: 0 0 50px #FF00FF;" />
-</p>
 
 <!-- STREAK STATS - Enhanced -->
 <h2 align="center" style="color: #FF00FF; text-shadow: 0 0 20px magenta;">🔥 QUANTUM_ENERGY_MATRIX</h2>
