@@ -253,41 +253,6 @@
 </p>
 
 
-<!-- INTERACTIVE TERMINAL (يعمل فعلاً) -->
-<h2 align="center" style="color: #00FF00; text-shadow: 0 0 20px lime;">💻 QUANTUM_TERMINAL_v2.0</h2>
-<div align="center">
-  <details open>
-    <summary style="color: #00FF00; background: #000; padding: 15px; border: 2px solid #00FF00; border-radius: 15px; cursor: pointer; font-family: monospace; font-size: 18px; width: 500px; margin: 0 auto;">
-      🔓 [CLICK_TO_ACCESS_QUANTUM_TERMINAL]
-    </summary>
-    <pre style="background: #0A0A0A; color: #00FF00; padding: 30px; border: 3px solid #FF00FF; border-radius: 20px; text-align: left; font-family: 'Courier New', monospace; width: 80%; margin: 20px auto; box-shadow: 0 0 80px #FF00FF;">
-<span style="color: #FF00FF;">┌──(quantum㉿architect)-[~]</span>
-<span style="color: #00FFFF;">└─$</span> ./scan_neural_network --depth infinite
-
-<span style="color: #00FF00;">>_ Scanning quantum core...</span>
-<span style="color: #FFFF00;">>_ Neural network: ▰▰▰▰▰▰▰▰▰▰ 100%</span>
-<span style="color: #00FFFF;">>_ Memory allocation: 16/16 QUBITS</span>
-<span style="color: #FF00FF;">>_ Encryption: QUANTUM_SAFE (AES-256 + QKD)</span>
-
-<span style="color: #00FFFF;">┌──(quantum㉿architect)-[~]</span>
-<span style="color: #00FF00;">└─$</span> whoami
-
-<span style="color: #FF00FF;">>> OUTPUT: Abdelhamid Med Amine</span>
-<span style="color: #00FFFF;">>> ROLE: Quantum Architect & Neural Researcher</span>
-<span style="color: #00FF00;">>> STATUS: [██████████] 100% Quantum Entangled</span>
-
-<span style="color: #00FFFF;">┌──(quantum㉿architect)-[~]</span>
-<span style="color: #FF00FF;">└─$</span> echo $MESSAGE
-
-<span style="color: #00FF00;">"The best way to predict the future is to invent it."</span>
-<span style="color: #00FFFF;">-- Alan Kay (Hacker & Visionary)</span>
-
-<span style="color: #00FFFF;">┌──(quantum㉿architect)-[~]</span>
-<span style="color: #FF00FF;">└─$</span> <span style="color: #00FF00;">█</span> <span style="color: #666;">(waiting for your command...)</span>
-    </pre>
-  </details>
-</div>
-
 
 <!-- SUPPORT BUTTON -->
 <p align="center">
