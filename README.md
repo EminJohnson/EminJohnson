@@ -1,13 +1,7 @@
 <!-- HEADER - Mystic Neon Wave with 3D Effect -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,20:4B0082,40:9400D3,60:00BFFF,80:4B0082,100:8A2BE2&height=300&section=header&text=⚡%20Abdelhamid%20Med%20Amine%20⚡&fontSize=42&fontColor=fff&animation=twinkling&desc=Quantum%20Architect%20%7C%20Digital%20Alchemist%20%7C%20Neural%20Researcher&descSize=18&descAlignY=65&descColor=00FFFF"/>
 
-<!-- 3D Floating Avatar with Glitch Effect -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHU2cXZ1a2F6c2F6c2F6c2F6c2F6c2F6c2Zpc3R5bGVzJmN0PWc/3oKIPnAiaMCws8nOsE/giphy.gif">
-    <source media="(prefers-color-scheme: light)" srcset="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHU2cXZ1a2F6c2F6c2F6c2F6c2F6c2F6c2Zpc3R5bGVzJmN0PWc/3oKIPnAiaMCws8nOsE/giphy.gif">
-    <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHU2cXZ1a2F6c2F6c2F6c2F6c2F6c2F6c2Zpc3R5bGVzJmN0PWc/3oKIPnAiaMCws8nOsE/giphy.gif" alt="3D Hologram Animation" style="border-radius: 50%; border: 4px solid #00FFFF; box-shadow: 0 0 50px #FF00FF, 0 0 100px #00FFFF;"/>
-  </picture>
+
 
 <!-- Animated Matrix Avatar -->
 <div align="center">
