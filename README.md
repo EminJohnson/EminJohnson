@@ -1,13 +1,20 @@
-<div align="center">
+                                                                                                                                            <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
 <!-- Social Media Links -->
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-</div>
+<h1 align="center">📬 Contact Me</h1>
+<p align="center">
+  <a href="www.linkedin.com/in/abdelhamid-med-amine-ej-academy">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="amine23444@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://t.me/eminjonson722">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram" />
+  </a>
+</p>
 
 <!-- Visitor Badge -->
 <div align="center">
@@ -104,25 +111,8 @@
 </p>
 
 
----
 
-<!-- Contact Information -->
-<h1 align="center">📬 Contact Me</h1>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ahmed-yaser-mt">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:ahmed.yaser.mt@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://wa.me/201014842264">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp" />
-  </a>
-  <a href="https://t.me/AhmedYaserMt">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram" />
-  </a>
-</p>
 
 
 
