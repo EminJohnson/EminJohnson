@@ -104,9 +104,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EminJohnson/EminJohnson/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 
-###
 ###
 ---
 
