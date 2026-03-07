@@ -558,24 +558,6 @@
   </details>
 </div>
 
-<!-- DAILY DEV CARD (اختياري) -->
-<h2 align="center" style="color: #00FFFF; text-shadow: 0 0 20px cyan;">📰 QUANTUM_FEED</h2>
-<p align="center">
-  <a href="https://app.daily.dev/EminJohnson">
-    <img src="https://api.daily.dev/devcards/v2/your-devcard-id.png?type=wide&r=123" width="400" alt="Daily.dev Dev Card" onerror="this.style.display='none'"/>
-  </a>
-</p>
-
-<!-- PROJECTS SHOWCASE (أضف مشاريعك هنا) -->
-<h2 align="center" style="color: #FF00FF; text-shadow: 0 0 20px magenta;">🚀 QUANTUM_PROJECTS_DATABASE</h2>
-<p align="center">
-  <a href="https://github.com/EminJohnson/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EminJohnson&repo=project1&theme=radical&bg_color=000000&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&border_color=8A2BE2&border_radius=20" />
-  </a>
-  <a href="https://github.com/EminJohnson/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EminJohnson&repo=project2&theme=radical&bg_color=000000&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&border_color=8A2BE2&border_radius=20" />
-  </a>
-</p>
 
 <!-- SUPPORT BUTTON -->
 <p align="center">
