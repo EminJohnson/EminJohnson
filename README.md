@@ -425,28 +425,6 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=EminJohnson&theme=radical&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=8A2BE2&border_radius=20&layout=compact" width="70%"/>
 </p>
 
-<!-- 3D CONTRIBUTION SNAKE (متعة تفاعلية) -->
-<h2 align="center" style="color: #FF00FF; text-shadow: 0 0 20px magenta;">🐍 QUANTUM_SNAKE_EATING_CONTRIBUTIONS</h2>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EminJohnson/EminJohnson/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/EminJohnson/EminJohnson/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/EminJohnson/EminJohnson/blob/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-<!-- QUOTE OF THE DAY -->
-<h2 align="center" style="color: #00FFFF; text-shadow: 0 0 20px cyan;">💬 QUANTUM_THOUGHT</h2>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%"/>
-</p>
-
-<!-- SPOTIFY - يعمل بدون حساب (فقط للتزيين) -->
-<h2 align="center" style="color: #00FF00; text-shadow: 0 0 20px lime;">🎵 CURRENT_FREQUENCY</h2>
-<p align="center">
-  <img src="https://spotify-recently-readme.vercel.app/api?user=31qwertyuiop1234567890&count=1&width=600&unique=true" width="500" onerror="this.style.display='none'"/>
-  <img src="https://img.shields.io/badge/🔊_LISTENING_TO-QUANTUM_WAVES-00FFFF?style=for-the-badge&labelColor=000000" />
-</p>
 
 <!-- INTERACTIVE TERMINAL (يعمل فعلاً) -->
 <h2 align="center" style="color: #00FF00; text-shadow: 0 0 20px lime;">💻 QUANTUM_TERMINAL_v2.0</h2>
