@@ -1,4 +1,11 @@
-
+<!-- Animated Matrix Avatar -->
+<div align="center">
+  <img height="180" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVlYzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/RbDKaczqWovIugyJmW/giphy.gif" alt="Matrix Code Animation" />
+  
+  <!-- Glowing Typing Effect -->
+  <h2>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=500&lines=%3E_+System+Online...;%3E_+Initializing+Neural+Link;%3E_+Welcome+to+the+Future" alt="Typing SVG" />
+  </h2>
   <div align="center">
 <h3>🔬 Independent Researcher | 🏗️ Web Architect | 🎓 Aspiring Academic</h3>
 <p><i>"Bridging the gap between theoretical research and scalable system architecture"</i></p>
@@ -52,14 +59,7 @@
 
 
 
-<!-- Animated Matrix Avatar -->
-<div align="center">
-  <img height="180" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVlYzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/RbDKaczqWovIugyJmW/giphy.gif" alt="Matrix Code Animation" />
-  
-  <!-- Glowing Typing Effect -->
-  <h2>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=500&lines=%3E_+System+Online...;%3E_+Initializing+Neural+Link;%3E_+Welcome+to+the+Future" alt="Typing SVG" />
-  </h2>
+
   
   <!-- Bio with Neon Effect -->
   <div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; box-shadow: 0 0 30px rgba(102, 126, 234, 0.5);">
