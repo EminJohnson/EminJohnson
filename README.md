@@ -1,9 +1,5 @@
 
-
 <!-- Profile Header -->
-
-
-
 
 
 <!-- HEADER - Wave Effect -->
