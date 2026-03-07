@@ -92,7 +92,7 @@
 <h1 align="center">📈 Activity Graph</h1>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedYaser-Mt&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EminJohnson&theme=tokyo-night" />
 </p>
 
 ---
@@ -108,9 +108,9 @@
 <h1 align="center">📊 GitHub Metrics Dashboard</h1>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedYaser-Mt&theme=tokyonight" /><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedYaser-Mt&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AhmedYaser-Mt&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EminJohnson&theme=tokyonight" /><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EminJohnson&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EminJohnson&theme=tokyonight" />
 </p>
 
 
