@@ -138,33 +138,6 @@
 
 <br/>
 
-<!-- Social Links with Holographic Buttons -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=0A66C2&cacheSeconds=3600" />
-  </a>
-  <a href="mailto:your.email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=EA4335" />
-  </a>
-  <a href="https://t.me/eminjonson722" target="_blank">
-    <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000&color=26A5E4" />
-  </a>
-  <a href="https://twitter.com/your-handle" target="_blank">
-    <img src="https://img.shields.io/badge/TWITTER-1D9BF0?style=for-the-badge&logo=x&logoColor=white&labelColor=000000&color=1D9BF0" />
-  </a>
-  <a href="https://discord.gg/your-server" target="_blank">
-    <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000&color=5865F2" />
-  </a>
-</p>
-
-<!-- Visitor Counter with Neon Effect -->
-<div align="center">
-  <img src="https://visit-counter.vercel.app/counter.png?page=EminJohnson&EminJohnson&s=60&c=00FFFF&bg=000000&no=7" alt="Visitor Counter" width="300"/>
-  <h4 style="color: #FF00FF; text-shadow: 0 0 15px magenta;">⚡ ACTIVE USERS IN QUANTUM REALM: 1,337 ⚡</h4>
-</div>
-
-<br/>
-
 <!-- PROFILE SECTION - Holographic Card -->
 <h2 align="center" style="color: #00FFFF; text-shadow: 0 0 20px cyan, 0 0 40px blue;">🧬 SYSTEM_PROFILE: QUANTUM_SIGNATURE</h2>
 <div align="center">
