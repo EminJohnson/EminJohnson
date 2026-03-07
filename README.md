@@ -1,44 +1,52 @@
+
 <!-- HEADER - Mystic Neon Wave with 3D Effect -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,20:4B0082,40:9400D3,60:00BFFF,80:4B0082,100:8A2BE2&height=300&section=header&text=⚡%20Abdelhamid%20Med%20Amine%20⚡&fontSize=42&fontColor=fff&animation=twinkling&desc=Quantum%20Architect%20%7C%20Digital%20Alchemist%20%7C%20Neural%20Researcher&descSize=18&descAlignY=65&descColor=00FFFF"/>
 
+<!-- 3D Avatar with Glitch Effect - تم الإصلاح -->
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVlYzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="300" style="border-radius: 50%; border: 4px solid #00FFFF; box-shadow: 0 0 50px #FF00FF, 0 0 100px #00FFFF;" alt="3D Avatar"/>
 
-<!-- Animated Matrix Rain Text -->
+  <!-- Animated Matrix Rain Text -->
   <h2>
     <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=32&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E_+System+Boot+Sequence+Initiated...;%3E_+Quantum+Core+Online;%3E_+Neural+Network+Connected;%3E_+Welcome+to+the+Future+%F0%9F%9A%80" alt="Matrix Typing SVG" />
   </h2>
 
-  <!-- Bio Card with Neon Gradient -->
-  <div style="background: linear-gradient(135deg, rgba(138,43,226,0.9) 0%, rgba(75,0,130,0.9) 50%, rgba(0,191,255,0.9) 100%); padding: 25px; border-radius: 30px; width: 80%; margin: 20px auto; border: 3px solid white; box-shadow: 0 0 60px #00FFFF, inset 0 0 30px #FF00FF;">
-  
+  <!-- Bio Card with Neon Gradient - تم إضافة النص -->
+  <div style="background: linear-gradient(135deg, rgba(138,43,226,0.95) 0%, rgba(75,0,130,0.95) 50%, rgba(0,191,255,0.95) 100%); padding: 30px; border-radius: 40px; width: 85%; margin: 20px auto; border: 4px solid #FFFFFF; box-shadow: 0 0 80px #00FFFF, inset 0 0 40px #FF00FF;">
+    <h2 style="color: #FFFFFF; text-shadow: 0 0 20px cyan, 0 0 40px magenta; font-size: 32px; margin: 10px; text-align: center;">
+      🔬 Independent Researcher | 🏗️ Web Architect | 🎓 Aspiring Academic
+    </h2>
+    <p style="color: #FFD700; font-size: 24px; text-align: center; text-shadow: 0 0 15px orange; font-style: italic;">
+      "Bridging the gap between theoretical research and scalable system architecture"
+    </p>
   </div>
 </div>
 
-  <div align="center">
-<h3>🔬 Independent Researcher | 🏗️ Web Architect | 🎓 Aspiring Academic</h3>
-<p><i>"Bridging the gap between theoretical research and scalable system architecture"</i></p>
-</div>
-</div>
+<br/>
 
-<!-- Social Media Links with Hover Effects -->
+<!-- Social Media Links مع تأثيرات نيون محسنة -->
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=0A66C2&cacheSeconds=3600" />
   </a>
   <a href="mailto:your.email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=EA4335" />
   </a>
   <a href="https://t.me/eminjonson722" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4" />
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000&color=26A5E4" />
   </a>
   <a href="https://twitter.com/your-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=x&logoColor=white&labelColor=1D9BF0" />
+    <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=x&logoColor=white&labelColor=000000&color=1D9BF0" />
+  </a>
+  <a href="https://github.com/EminJohnson" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=6e5494" />
   </a>
 </p>
 
-<!-- Visitor Badge -->
-
+<!-- Visitor Badge مع تأثير نيون -->
 <div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=EminJohnson.EminJohnson&" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=EminJohnson.EminJohnson&left_text=QUANTUM%20VISITORS&right_color=8A2BE2&left_color=00FFFF" />
+  <h4 style="color: #FF00FF; text-shadow: 0 0 15px magenta;">⚡ QUANTUM ENTANGLEMENT: ACTIVE ⚡</h4>
 </div>
 
 <br/>
@@ -250,57 +258,6 @@
 
 
 
-<!-- HEADER - Mystic Neon Wave with 3D Effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,20:4B0082,40:9400D3,60:00BFFF,80:4B0082,100:8A2BE2&height=300&section=header&text=⚡%20Abdelhamid%20Med%20Amine%20⚡&fontSize=42&fontColor=fff&animation=twinkling&desc=Quantum%20Architect%20%7C%20Digital%20Alchemist%20%7C%20Neural%20Researcher&descSize=18&descAlignY=65&descColor=00FFFF"/>
-
-<!-- 3D Avatar with Glitch Effect - تم الإصلاح -->
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVlYzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="300" style="border-radius: 50%; border: 4px solid #00FFFF; box-shadow: 0 0 50px #FF00FF, 0 0 100px #00FFFF;" alt="3D Avatar"/>
-
-  <!-- Animated Matrix Rain Text -->
-  <h2>
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=32&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E_+System+Boot+Sequence+Initiated...;%3E_+Quantum+Core+Online;%3E_+Neural+Network+Connected;%3E_+Welcome+to+the+Future+%F0%9F%9A%80" alt="Matrix Typing SVG" />
-  </h2>
-
-  <!-- Bio Card with Neon Gradient - تم إضافة النص -->
-  <div style="background: linear-gradient(135deg, rgba(138,43,226,0.95) 0%, rgba(75,0,130,0.95) 50%, rgba(0,191,255,0.95) 100%); padding: 30px; border-radius: 40px; width: 85%; margin: 20px auto; border: 4px solid #FFFFFF; box-shadow: 0 0 80px #00FFFF, inset 0 0 40px #FF00FF;">
-    <h2 style="color: #FFFFFF; text-shadow: 0 0 20px cyan, 0 0 40px magenta; font-size: 32px; margin: 10px; text-align: center;">
-      🔬 Independent Researcher | 🏗️ Web Architect | 🎓 Aspiring Academic
-    </h2>
-    <p style="color: #FFD700; font-size: 24px; text-align: center; text-shadow: 0 0 15px orange; font-style: italic;">
-      "Bridging the gap between theoretical research and scalable system architecture"
-    </p>
-  </div>
-</div>
-
-<br/>
-
-<!-- Social Media Links مع تأثيرات نيون محسنة -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000&color=0A66C2&cacheSeconds=3600" />
-  </a>
-  <a href="mailto:your.email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000&color=EA4335" />
-  </a>
-  <a href="https://t.me/eminjonson722" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000&color=26A5E4" />
-  </a>
-  <a href="https://twitter.com/your-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1D9BF0?style=for-the-badge&logo=x&logoColor=white&labelColor=000000&color=1D9BF0" />
-  </a>
-  <a href="https://github.com/EminJohnson" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000&color=6e5494" />
-  </a>
-</p>
-
-<!-- Visitor Badge مع تأثير نيون -->
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=EminJohnson.EminJohnson&left_text=QUANTUM%20VISITORS&right_color=8A2BE2&left_color=00FFFF" />
-  <h4 style="color: #FF00FF; text-shadow: 0 0 15px magenta;">⚡ QUANTUM ENTANGLEMENT: ACTIVE ⚡</h4>
-</div>
-
-<br/>
 
 <!-- About Me - Holographic Card محسنة -->
 <div align="center">
