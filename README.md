@@ -22,11 +22,6 @@
 </a>
 </p>
 
-<!-- Visitor Badge -->
-
-<div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=EminJohnson.EminJohnson&" />
-</div>
 
 <!-- Profile Header -->
 
@@ -66,8 +61,9 @@
 </p>
 
 <!-- Visitor Badge -->
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=EminJohnson&label=Profile%20Views&color=0e75b6&style=flat" alt="EminJohnson" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=EminJohnson.EminJohnson&" />
 </div>
 
 <br/>
