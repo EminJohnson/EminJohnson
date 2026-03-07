@@ -89,7 +89,7 @@
         <br>C#
       </td>
       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/php-icon.svg" alt="PHP" width="48" height="48" />
+        <img src="https://skillicons.dev/icons?i=php" />
         <br>PHP
       </td>
       <td align="center" width="96">
