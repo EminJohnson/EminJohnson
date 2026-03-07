@@ -64,9 +64,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-###
----
-
 <!-- Coding Animation -->
 <p align="center">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="420" />
@@ -89,8 +86,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EminJohnson&theme=tokyo-night" />
 </p>
-###
----
+
 
 <!-- GitHub Metrics Dashboard -->
 <h1 align="center">📊 GitHub Metrics Dashboard</h1>
