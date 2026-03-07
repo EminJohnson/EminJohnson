@@ -83,7 +83,7 @@
 <h1 align="center">🔥 GitHub Streak</h1>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AhmedYaser-Mt&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=EminJohnson&theme=tokyonight" />
 </p>
 
 ---
