@@ -31,10 +31,6 @@
   <p><i>"Bridging the gap between theoretical research and scalable system architecture"</i></p>
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu&" />
-</div>
-
 ---
 
 ### 💻 About Me
@@ -93,16 +89,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EminJohnson&theme=tokyo-night" />
 </p>
-
-
-<!-- GitHub Snake Animation -->
-<h1 align="center">🐍 Snake Contribution</h1>
-<p align="center">
-  <img src="https://raw.githubusercontent.com" alt="Snake">
-</p>
-
-
-
 ###
 ---
 
