@@ -6,16 +6,17 @@
 <!-- Social Media Links -->
 <h1 align="center">📬 Contact Me</h1> 
 <p align="center">
-  <a href="www.linkedin.com/in/abdelhamid-med-amine-ej-academy">
+  <a href="https://www.linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="amine23444@gmail.com">
+  <a href="mailto:amine23444@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://t.me/eminjonson722">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram" />
   </a>
 </p>
+
 
 <!-- Visitor Badge -->
 <div align="center">
