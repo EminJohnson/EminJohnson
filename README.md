@@ -36,32 +36,6 @@
 
 <br/>
 
-<!-- About Me - Card Style -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <h2>🧑‍💻 About Me</h2>
-        <ul style="list-style-type: none; padding: 0;">
-          <li>🇩🇿 <b>Based in Algeria</b></li>
-          <li>🔭 <b>Role:</b> Independent Researcher & Web Systems Architect</li>
-          <li>📚 <b>Interests:</b> Distributed Systems, Clean Architecture, High-Performance Computing</li>
-          <li>⚡ <b>Aspirations:</b> Contributing to the future of decentralized web architectures</li>
-          <li>👩‍💻 <b>Status:</b> Currently deep-diving into Advanced CS Theory</li>
-        </ul>
-      </td>
-      <td>
-        <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true" width="250" alt="Coding gif"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
-
-  
-  
 
 <!-- About Me - Holographic Card -->
 <div align="center">
