@@ -97,9 +97,7 @@
 ---
 
 <!-- GitHub Snake Animation -->
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/EminJohnson/EminJohnson/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com" alt="Snake animation">
 
 ###
 ---
