@@ -159,7 +159,7 @@
 
 
 <!-- FOOTER - Enhanced -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,25:4B0082,50:9400D3,75:00BFFF,100:8A2BE2&height=220&section=footer&text=⚡%20QUANTUM%20PORTAL%20CLOSING%20⚡&fontSize=26&fontColor=fff&animation=twinkling&desc=See%20you%20in%20another%20dimension...%20🌌&descAlignY=70&descSize=20&descColor=FF00FF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,25:4B0082,50:9400D3,75:00BFFF,100:8A2BE2&height=220&section=footer&text=⚡%20Researcher%20PORTAL%20CLOSING%20⚡&fontSize=26&fontColor=fff&animation=twinkling&desc=See%20you%20in%20another%20dimension...%20🌌&descAlignY=70&descSize=20&descColor=FF00FF"/>
 
 <!-- Hidden ASCII Art -->
 <!-- 
@@ -177,5 +177,5 @@
               ╚══▀▀═╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝   ╚═╝    ╚═════╝ ╚═╝     ╚═╝
 -->
 
-<!-- تذييل سري للغاية -->
-<!-- ⚡ SYSTEM: QUANTUM_ARCHITECT_2024 | STATUS: ONLINE | ENCRYPTION: ACTIVE ⚡ -->
+
+<!-- ⚡ SYSTEM: QUANTUM_ARCHITECT_2026 | STATUS: ONLINE | ENCRYPTION: ACTIVE ⚡ -->
