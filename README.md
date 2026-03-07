@@ -61,41 +61,7 @@
 
 
   
-  <!-- Bio with Neon Effect -->
-  <div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; box-shadow: 0 0 30px rgba(102, 126, 234, 0.5);">
-    <h3 style="color: #fff; text-shadow: 0 0 10px #00ffff, 0 0 20px #00ffff;">
-      🔬 Quantum Researcher | 🏗️ Neural Architect | 🎓 Digital Alchemist
-    </h3>
-    <p style="color: #E0E0E0; font-size: 18px; text-shadow: 0 0 5px #fff;">
-      <i>"Decrypting the matrix between theoretical physics and scalable digital dimensions"</i>
-    </p>
-  </div>
-</div>
-
-<br/>
-
-<!-- Social Media Links with Neon Glow -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2" />
-  </a>
-  <a href="mailto:your.email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&color=EA4335" />
-  </a>
-  <a href="https://t.me/eminjonson722" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4&color=26A5E4" />
-  </a>
-  <a href="https://github.com/EminJohnson" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=6e5494&color=6e5494" />
-  </a>
-</p>
-
-<!-- Visitor Badge with Neon -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=EminJohnson&label=VISITOR+IDENTITY:+ACCESS+GRANTED&color=9400D3&style=for-the-badge&base=1000" alt="Visitor Badge" />
-</div>
-
-<br/>
+  
 
 <!-- About Me - Holographic Card -->
 <div align="center">
