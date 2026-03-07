@@ -1,16 +1,4 @@
 
-<!-- Profile Header -->
-
-
-<!-- HEADER - Wave Effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Abdelhamid%20Med%20Amine&fontSize=38&fontColor=fff&animation=twinkling&desc=Independent%20Researcher%20%7C%20Web%20Architect&descSize=16&descAlignY=60"/>
-
-<!-- Animated Greeting & Avatar -->
-<div align="center">
-  <img height="160" src="https://media4.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47i4i3ss0jdxobk5j9joxo9j0v0j5z5z5z5z5&rid=giphy.gif&ct=s" alt="Coding Animation" />
-  <h2>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2C9FE4&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdelhamid;Welcome+to+my+Digital+Space " alt="Typing SVG" />
-  </h2>
   <div align="center">
 <h3>🔬 Independent Researcher | 🏗️ Web Architect | 🎓 Aspiring Academic</h3>
 <p><i>"Bridging the gap between theoretical research and scalable system architecture"</i></p>
