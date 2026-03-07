@@ -2,13 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Abdelhamid%20Med%20Amine&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
-
-
-
-
-
-<img width="100%" src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0:0F2027,50:203A43,100:2C5364%26height%3D240%26section%3Dheader%26text%3DAbdelhamid%2520Med%2520Amine%26fontSize%3D42%26fontColor%3Dffffff%26animation%3DfadeIn"/>
-
 <div align="center">
 <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
