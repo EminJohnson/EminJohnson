@@ -1,11 +1,25 @@
 <!-- HEADER - Mystic Neon Wave with 3D Effect -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,20:4B0082,40:9400D3,60:00BFFF,80:4B0082,100:8A2BE2&height=300&section=header&text=⚡%20Abdelhamid%20Med%20Amine%20⚡&fontSize=42&fontColor=fff&animation=twinkling&desc=Quantum%20Architect%20%7C%20Digital%20Alchemist%20%7C%20Neural%20Researcher&descSize=18&descAlignY=65&descColor=00FFFF"/>
 
-
-
 <!-- Animated Matrix Avatar -->
 <div align="center">
   <img height="180" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVlYzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/RbDKaczqWovIugyJmW/giphy.gif" alt="Matrix Code Animation" />
+
+  <!-- Animated Matrix Rain Text -->
+  <h2>
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=32&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E_+System+Boot+Sequence+Initiated...;%3E_+Quantum+Core+Online;%3E_+Neural+Network+Connected;%3E_+Welcome+to+the+Future+%F0%9F%9A%80" alt="Matrix Typing SVG" />
+  </h2>
+
+  <!-- Bio Card with Neon Gradient -->
+  <div style="background: linear-gradient(135deg, rgba(138,43,226,0.9) 0%, rgba(75,0,130,0.9) 50%, rgba(0,191,255,0.9) 100%); padding: 25px; border-radius: 30px; width: 80%; margin: 20px auto; border: 3px solid white; box-shadow: 0 0 60px #00FFFF, inset 0 0 30px #FF00FF;">
+    <h3 style="color: #FFFFFF; text-shadow: 0 0 20px cyan, 0 0 40px magenta; font-size: 28px; margin: 10px;">
+      🔬 QUANTUM RESEARCHER | 🏗️ NEURAL ARCHITECT | 🎓 DIGITAL ALCHEMIST
+    </h3>
+    <p style="color: #FFD700; font-size: 20px; text-shadow: 0 0 15px orange;">
+      <i>"Bridging the gap between theoretical quantum physics and scalable digital dimensions"</i>
+    </p>
+  </div>
+</div>
   
   <!-- Glowing Typing Effect -->
   <h2>
@@ -132,21 +146,7 @@
 
 
 
-  <!-- Animated Matrix Rain Text -->
-  <h2>
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=32&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E_+System+Boot+Sequence+Initiated...;%3E_+Quantum+Core+Online;%3E_+Neural+Network+Connected;%3E_+Welcome+to+the+Future+%F0%9F%9A%80" alt="Matrix Typing SVG" />
-  </h2>
-
-  <!-- Bio Card with Neon Gradient -->
-  <div style="background: linear-gradient(135deg, rgba(138,43,226,0.9) 0%, rgba(75,0,130,0.9) 50%, rgba(0,191,255,0.9) 100%); padding: 25px; border-radius: 30px; width: 80%; margin: 20px auto; border: 3px solid white; box-shadow: 0 0 60px #00FFFF, inset 0 0 30px #FF00FF;">
-    <h3 style="color: #FFFFFF; text-shadow: 0 0 20px cyan, 0 0 40px magenta; font-size: 28px; margin: 10px;">
-      🔬 QUANTUM RESEARCHER | 🏗️ NEURAL ARCHITECT | 🎓 DIGITAL ALCHEMIST
-    </h3>
-    <p style="color: #FFD700; font-size: 20px; text-shadow: 0 0 15px orange;">
-      <i>"Bridging the gap between theoretical quantum physics and scalable digital dimensions"</i>
-    </p>
-  </div>
-</div>
+  
 
 <br/>
 
