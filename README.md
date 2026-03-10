@@ -71,136 +71,139 @@
 
 
 
-
-
-<!-- About Me - Quantum Holographic Card (مُحسّن للهاتف) -->
 <div align="center">
-  <!-- حاوية رئيسية مرنة -->
-  <div style="background: linear-gradient(145deg, rgba(106, 13, 173, 0.2) 0%, rgba(0, 255, 255, 0.1) 100%); border-radius: 30px; border: 2px solid #00FFFF; box-shadow: 0 0 40px #8A2BE2, inset 0 0 20px #00FFFF; backdrop-filter: blur(15px); padding: 25px; width: 95%; max-width: 1200px; margin: 0 auto;">
-    
-    <!-- العنوان (يظهر في جميع الأحجام) -->
-    <h2 style="color: #00FFFF; text-shadow: 0 0 20px cyan; font-size: clamp(24px, 5vw, 42px); margin-bottom: 25px; border-bottom: 3px solid #FF00FF; padding-bottom: 15px; display: inline-block;">
-      ⚡ SYSTEM_PROFILE.EXE ⚡
-    </h2>
-    
-    <!-- نظام الشبكة المتجاوب (Flexbox) -->
-    <div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
-      
-      <!-- الجزء الأيمن: المعلومات (يأخذ المساحة المتبقية) -->
-      <div style="flex: 2; min-width: 280px; text-align: left; padding: 15px;">
-        
-        <!-- بطاقات المعلومات بشكل عمودي في الهاتف، شبكة في الكمبيوتر -->
-        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 15px;">
-          
-          <!-- بطاقة 1: الموقع -->
-          <div style="background: rgba(0, 0, 0, 0.6); padding: 18px; border-radius: 20px; border: 2px solid #FF00FF; box-shadow: 0 0 25px #FF00FF;">
-            <div style="display: flex; align-items: center; gap: 15px;">
-              <span style="font-size: 32px;">🇩🇿</span>
-              <div>
-                <h3 style="color: #00FFFF; margin: 0; font-size: 16px;">LOCATION</h3>
-                <p style="color: #FFFFFF; margin: 5px 0 0; font-weight: bold; font-size: 18px;">Algeria</p>
-              </div>
-            </div>
-          </div>
-          
-          <!-- بطاقة 2: الدور -->
-          <div style="background: rgba(0, 0, 0, 0.6); padding: 18px; border-radius: 20px; border: 2px solid #00FFFF; box-shadow: 0 0 25px #00FFFF;">
-            <div style="display: flex; align-items: center; gap: 15px;">
-              <span style="font-size: 32px;">🔭</span>
-              <div>
-                <h3 style="color: #FF00FF; margin: 0; font-size: 16px;">ROLE</h3>
-                <p style="color: #FFFFFF; margin: 5px 0 0; font-size: 14px;">Independent Researcher<br>Web Architect</p>
-              </div>
-            </div>
-          </div>
-          
-          <!-- بطاقة 3: الاهتمامات -->
-          <div style="background: rgba(0, 0, 0, 0.6); padding: 18px; border-radius: 20px; border: 2px solid #8A2BE2; box-shadow: 0 0 25px #8A2BE2;">
-            <div style="display: flex; align-items: center; gap: 15px;">
-              <span style="font-size: 32px;">📚</span>
-              <div>
-                <h3 style="color: #00FFFF; margin: 0; font-size: 16px;">INTERESTS</h3>
-                <p style="color: #FFFFFF; margin: 5px 0 0; font-size: 12px;">Distributed Systems<br>Clean Architecture<br>HPC</p>
-              </div>
-            </div>
-          </div>
-          
-          <!-- بطاقة 4: التطلعات -->
-          <div style="background: rgba(0, 0, 0, 0.6); padding: 18px; border-radius: 20px; border: 2px solid #FFD700; box-shadow: 0 0 25px #FFD700;">
-            <div style="display: flex; align-items: center; gap: 15px;">
-              <span style="font-size: 32px;">⚡</span>
-              <div>
-                <h3 style="color: #FF00FF; margin: 0; font-size: 16px;">ASPIRATIONS</h3>
-                <p style="color: #FFFFFF; margin: 5px 0 0; font-size: 12px;">Decentralized Web<br>Quantum Computing</p>
-              </div>
-            </div>
-          </div>
-          
-          <!-- بطاقة 5: الحالة (تمتد على عمودين في الشاشات الكبيرة) -->
-          <div style="background: rgba(0, 0, 0, 0.6); padding: 18px; border-radius: 20px; border: 2px solid #00FF00; box-shadow: 0 0 25px #00FF00; grid-column: span 2;">
-            <div style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap;">
-              <span style="font-size: 32px;">👩‍💻</span>
-              <div style="flex: 1;">
-                <h3 style="color: #00FF00; margin: 0; font-size: 16px;">STATUS</h3>
-                <p style="color: #FFFFFF; margin: 5px 0 0; font-size: 14px;">Deep-diving into Advanced CS Theory</p>
-              </div>
-              <!-- مؤشر النشاط -->
-              <div style="background: #00FF00; width: 15px; height: 15px; border-radius: 50%; animation: pulse 1.5s infinite;"></div>
-            </div>
-          </div>
-        </div>
-        
-        <!-- شريط الطاقة المتحرك -->
-        <div style="margin-top: 25px; background: #1A1A1A; border-radius: 50px; padding: 5px; border: 2px solid #00FFFF;">
-          <div style="background: linear-gradient(90deg, #FF00FF, #00FFFF); width: 100%; padding: 12px; border-radius: 50px; text-align: center;">
-            <span style="color: black; font-weight: bold; font-size: clamp(12px, 3vw, 16px);">
-              ⚡ QUANTUM_CORE: ACTIVE | SYNAPSE: 100% ⚡
-            </span>
-          </div>
-        </div>
-      </div>
-      
-      <!-- الجزء الأيسر: الصورة (تظهر في الأعلى في الهاتف) -->
-      <div style="flex: 1; min-width: 250px; text-align: center; padding: 15px;">
-        <div style="position: relative; display: inline-block; width: 100%; max-width: 300px;">
-          <!-- الصورة متجاوبة -->
-          <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVlYzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/78XCFBGOlS6keY1Bil/giphy.gif" style="width: 100%; max-width: 280px; height: auto; border-radius: 30px; border: 4px solid #FF00FF; box-shadow: 0 0 50px #FF00FF;" alt="Cyberpunk Animation"/>
-          
-          <!-- شارات عائمة (تتكيف مع الهاتف) -->
-          <div style="position: absolute; top: 10px; right: 10px; background: rgba(0, 0, 0, 0.8); padding: 8px 15px; border-radius: 30px; border: 2px solid #00FFFF; box-shadow: 0 0 20px #00FFFF;">
-            <span style="color: #00FFFF; font-weight: bold; font-size: clamp(10px, 2vw, 14px);">AI CORE</span>
-          </div>
-          
-          <div style="position: absolute; bottom: 10px; left: 10px; background: rgba(0, 0, 0, 0.8); padding: 8px 15px; border-radius: 30px; border: 2px solid #FF00FF; box-shadow: 0 0 20px #FF00FF;">
-            <span style="color: #FF00FF; font-weight: bold; font-size: clamp(10px, 2vw, 14px);">⚡ 99.9%</span>
-          </div>
-        </div>
-        
-        <!-- بصمة رقمية متجاوبة -->
-        <div style="margin-top: 20px; background: rgba(0, 0, 0, 0.5); padding: 12px; border-radius: 30px; border: 2px solid #00FF00;">
-          <code style="color: #00FF00; font-size: clamp(11px, 2.5vw, 14px);">
-            $ quantum --status → ONLINE
-          </code>
-        </div>
-      </div>
-    </div>
-    
-    <!-- سطر الأوامر السفلي -->
-    <div style="margin-top: 25px; padding: 15px; background: rgba(0, 0, 0, 0.7); border-radius: 30px; border: 2px solid #8A2BE2;">
-      <p style="color: #00FFFF; font-family: monospace; margin: 0; font-size: clamp(12px, 2.5vw, 14px); text-align: left;">
-        &lt;!-- QUANTUM_ENTANGLEMENT: 87% | SYNAPSE_CONNECTION: ESTABLISHED --&gt;
-      </p>
-    </div>
-  </div>
+  
+<!-- SYSTEM_PROFILE.EXE - Holographic Card -->
+<div style="
+  background: linear-gradient(145deg, rgba(106, 13, 173, 0.2) 0%, rgba(0, 255, 255, 0.1) 100%);
+  border-radius: 20px;
+  border: 2px solid rgba(0, 255, 255, 0.3);
+  box-shadow: 0 0 40px rgba(148, 0, 211, 0.3), inset 0 0 20px rgba(0, 255, 255, 0.2);
+  backdrop-filter: blur(10px);
+  padding: 20px;
+  max-width: 100%;
+  width: fit-content;
+  margin: 0 auto;
+  transition: all 0.3s ease;
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+">
+
+<!-- Mobile-First Flex Container -->
+<div style="
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  width: 100%;
+">
+
+<!-- Header Section - Always Visible -->
+<div style="width: 100%;">
+  <h2 style="
+    color: #00FFFF;
+    text-shadow: 0 0 15px cyan;
+    margin: 0 0 15px 0;
+    font-size: clamp(1.2rem, 5vw, 1.8rem);
+    text-align: center;
+    word-break: break-word;
+  ">
+    🧬 SYSTEM_PROFILE.EXE
+  </h2>
 </div>
 
+<!-- Content Grid - Responsive Layout -->
+<div style="
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+  width: 100%;
+  align-items: center;
+">
+
+<!-- Text Content -->
+<div style="
+  padding: 10px;
+  width: 100%;
+">
+  <ul style="
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    color: #e0e0ff;
+    font-size: clamp(0.9rem, 4vw, 1rem);
+  ">
+    <li style="margin-bottom: 12px; display: flex; align-items: center; gap: 8px;">
+      <span style="color: #00FFFF; text-shadow: 0 0 8px cyan;">🇩🇿</span>
+      <span style="word-break: break-word;"><b>Based in Algeria</b></span>
+    </li>
+    <li style="margin-bottom: 12px; display: flex; align-items: flex-start; gap: 8px;">
+      <span style="color: #00FFFF; text-shadow: 0 0 8px cyan;">🔭</span>
+      <span style="word-break: break-word;"><b>Role:</b> Independent Researcher & Web Systems Architect</span>
+    </li>
+    <li style="margin-bottom: 12px; display: flex; align-items: flex-start; gap: 8px;">
+      <span style="color: #00FFFF; text-shadow: 0 0 8px cyan;">📚</span>
+      <span style="word-break: break-word;"><b>Interests:</b> Distributed Systems, Clean Architecture, High-Performance Computing</span>
+    </li>
+    <li style="margin-bottom: 12px; display: flex; align-items: flex-start; gap: 8px;">
+      <span style="color: #00FFFF; text-shadow: 0 0 8px cyan;">⚡</span>
+      <span style="word-break: break-word;"><b>Aspirations:</b> Contributing to the future of decentralized web architectures</span>
+    </li>
+    <li style="margin-bottom: 12px; display: flex; align-items: flex-start; gap: 8px;">
+      <span style="color: #00FFFF; text-shadow: 0 0 8px cyan;">👩‍💻</span>
+      <span style="word-break: break-word;"><b>Status:</b> Currently deep-diving into Advanced CS Theory</span>
+    </li>
+  </ul>
+</div>
+
+<!-- Image Section - Hidden on very small screens if needed -->
+<div style="
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  min-width: 0; /* Prevents overflow */
+">
+  <img 
+    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVlYzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/78XCFBGOlS6keY1Bil/giphy.gif" 
+    alt="Cyberpunk Animation"
+    style="
+      max-width: 100%;
+      height: auto;
+      width: clamp(200px, 50vw, 280px);
+      border-radius: 20px;
+      box-shadow: 0 0 40px rgba(255, 0, 255, 0.6);
+      display: block;
+    "
+    loading="lazy"
+  />
+</div>
+
+</div> <!-- End Grid -->
+
+</div> <!-- End Flex Container -->
+
+</div> <!-- End Main Card -->
+
+<!-- Small screen optimization note -->
 <style>
-  @keyframes pulse {
-    0% { opacity: 0.6; transform: scale(1); }
-    50% { opacity: 1; transform: scale(1.1); }
-    100% { opacity: 0.6; transform: scale(1); }
+  @media (max-width: 480px) {
+    div[style*="backdrop-filter"] {
+      padding: 12px !important;
+    }
+    ul[style*="list-style"] li {
+      font-size: 0.9rem !important;
+    }
+  }
+  /* Ensure text doesn't overflow */
+  li span:last-child {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    hyphens: auto;
   }
 </style>
+
+</div>
+
 <br/>
 <!-- Tech Stack - Modern Glassmorphism Cards -->
 <h2 align="center">🛠️ Modern Tech Stack</h2>
