@@ -170,6 +170,13 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EminJohnson&theme=radical&hide_border=true&utcOffset=1" style="border: 3px solid #FF00FF; border-radius: 20px; box-shadow: 0 0 40px #FF00FF; margin: 10px;" />
 </p>
 
+<!-- إضافة GITHUB STATS الأساسية (تظهر فوراً) -->
+<h2 align="center" style="color: #00FFFF; text-shadow: 0 0 20px cyan;">⚡ QUANTUM_STATS</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EminJohnson&show_icons=true&theme=radical&bg_color=000000&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&border_color=8A2BE2&border_radius=20&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EminJohnson&layout=compact&theme=radical&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=8A2BE2&border_radius=20" width="48%" />
+</p>
+
 <!-- QUOTE OF THE DAY  -->
 <h2 align="center" style="color: #FF00FF; text-shadow: 0 0 20px magenta; font-size: 36px;">💭 QUANTUM_THOUGHT</h2>
 <p align="center">
@@ -215,43 +222,3 @@ without explicit written permission from the author.
 -->
 
 <!-- ⚡ SYSTEM: QUANTUM_ARCHITECT_2026 | STATUS: ONLINE | ENCRYPTION: ACTIVE ⚡ -->
-<!-- STREAK STATS - يعمل 100% مع الرابط الجديد -->
-<h2 align="center" style="color: #FF00FF; text-shadow: 0 0 20px magenta;">🔥 QUANTUM_ENERGY_MATRIX</h2>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=EminJohnson&theme=radical&hide_border=true&border_radius=20&date_format=M%20j%5B%2C%20Y%5D&background=0,000000,2E0854&stroke=00FFFF&ring=FF00FF&fire=FF00FF&currStreakNum=00FFFF&sideNums=FF00FF&currStreakLabel=FF00FF&sideLabels=FFFFFF&dates=00FFFF" width="90%" style="border: 2px solid #FF00FF; border-radius: 25px; box-shadow: 0 0 40px #FF00FF;" />
-</p>
-
-<!-- ACTIVITY GRAPH - يعمل بشكل طبيعي -->
-<h2 align="center" style="color: #00FFFF; text-shadow: 0 0 20px cyan;">📡 NEURAL_ACTIVITY_SCAN_2049</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EminJohnson&theme=react-dark&hide_border=true&area=true&custom_title=Quantum%20Neural%20Activity%20Pattern&bg_color=000000&color=00FFFF&line=FF00FF&point=FFFFFF&area_color=8A2BE2&radius=20" width="95%" style="border: 2px solid #00FFFF; border-radius: 25px; box-shadow: 0 0 40px #00FFFF;" />
-</p>
-
-<!-- STATS CARDS - Summary Cards (قد تحتاج وقتاً للتحديث) -->
-<h2 align="center" style="color: #FF00FF; text-shadow: 0 0 20px magenta;">📊 QUANTUM_METRICS_DASHBOARD</h2>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EminJohnson&theme=radical" width="95%" style="border: 3px solid #FF00FF; border-radius: 30px; box-shadow: 0 0 60px #FF00FF;" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EminJohnson&theme=radical" style="border: 3px solid #00FFFF; border-radius: 20px; box-shadow: 0 0 40px #00FFFF; margin: 10px;" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=EminJohnson&theme=radical" style="border: 3px solid #FF00FF; border-radius: 20px; box-shadow: 0 0 40px #FF00FF; margin: 10px;" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EminJohnson&theme=radical" style="border: 3px solid #00FFFF; border-radius: 20px; box-shadow: 0 0 40px #00FFFF; margin: 10px;" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EminJohnson&theme=radical&utcOffset=1" style="border: 3px solid #FF00FF; border-radius: 20px; box-shadow: 0 0 40px #FF00FF; margin: 10px;" />
-</p>
-
-<!-- إضافة GITHUB STATS الأساسية (تظهر فوراً) -->
-<h2 align="center" style="color: #00FFFF; text-shadow: 0 0 20px cyan;">⚡ QUANTUM_STATS</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EminJohnson&show_icons=true&theme=radical&bg_color=000000&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&border_color=8A2BE2&border_radius=20&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EminJohnson&layout=compact&theme=radical&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=8A2BE2&border_radius=20" width="48%" />
-</p>
-
-<!-- GITHUB TROPHIES - إضافة رائعة -->
-<h2 align="center" style="color: #FF00FF; text-shadow: 0 0 20px magenta;">🏆 ACHIEVEMENTS_UNLOCKED</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EminJohnson&theme=radical&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=8&row=1" width="100%" style="border-radius: 30px; border: 3px solid #00FFFF; box-shadow: 0 0 60px #00FFFF;" />
-</p>
