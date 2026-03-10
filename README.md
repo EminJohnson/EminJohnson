@@ -60,9 +60,7 @@
           <li>👩‍💻 <b>Status:</b> Currently deep-diving into Advanced CS Theory</li>
         </ul>
       </td>
-      <td style="padding: 20px;">
-       
-      </td>
+     
     </tr>
   </table>
 </div>
