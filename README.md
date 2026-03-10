@@ -69,9 +69,7 @@
 
 
 
-
-
-<div align="left">
+<div align="center">
   
 <!-- SYSTEM_PROFILE.EXE - Holographic Card -->
 <div style="
@@ -132,36 +130,60 @@
     color: #e0e0ff;
     font-size: clamp(0.9rem, 4vw, 1rem);
   ">
-    <li style="margin-bottom: 12px; display: flex; align-items: center; gap: 8px;">
+    <li style="margin-bottom: 12px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease;">
       <span style="color: #00FFFF; text-shadow: 0 0 8px cyan;">🇩🇿</span>
       <span style="word-break: break-word;"><b>Based in Algeria</b></span>
     </li>
-    <li style="margin-bottom: 12px; display: flex; align-items: flex-start; gap: 8px;">
+    <li style="margin-bottom: 12px; display: flex; align-items: flex-start; gap: 8px; transition: all 0.3s ease;">
       <span style="color: #00FFFF; text-shadow: 0 0 8px cyan;">🔭</span>
       <span style="word-break: break-word;"><b>Role:</b> Independent Researcher & Web Systems Architect</span>
     </li>
-    <li style="margin-bottom: 12px; display: flex; align-items: flex-start; gap: 8px;">
+    <li style="margin-bottom: 12px; display: flex; align-items: flex-start; gap: 8px; transition: all 0.3s ease;">
       <span style="color: #00FFFF; text-shadow: 0 0 8px cyan;">📚</span>
       <span style="word-break: break-word;"><b>Interests:</b> Distributed Systems, Clean Architecture, High-Performance Computing</span>
     </li>
-    <li style="margin-bottom: 12px; display: flex; align-items: flex-start; gap: 8px;">
+    <li style="margin-bottom: 12px; display: flex; align-items: flex-start; gap: 8px; transition: all 0.3s ease;">
       <span style="color: #00FFFF; text-shadow: 0 0 8px cyan;">⚡</span>
       <span style="word-break: break-word;"><b>Aspirations:</b> Contributing to the future of decentralized web architectures</span>
     </li>
-    <li style="margin-bottom: 12px; display: flex; align-items: flex-start; gap: 8px;">
+    <li style="margin-bottom: 12px; display: flex; align-items: flex-start; gap: 8px; transition: all 0.3s ease;">
       <span style="color: #00FFFF; text-shadow: 0 0 8px cyan;">👩‍💻</span>
       <span style="word-break: break-word;"><b>Status:</b> Currently deep-diving into Advanced CS Theory</span>
     </li>
   </ul>
+
+  <!-- شريط الحالة الكمي -->
+  <div style="
+    margin-top: 25px;
+    background: rgba(0, 0, 0, 0.5);
+    border-radius: 30px;
+    padding: 5px;
+    border: 2px solid #FF00FF;
+    box-shadow: 0 0 20px #FF00FF;
+  ">
+    <div style="
+      background: linear-gradient(90deg, #FF00FF, #00FFFF, #8A2BE2);
+      width: 94%;
+      padding: 8px;
+      border-radius: 30px;
+      text-align: center;
+      animation: pulse 2s infinite;
+    ">
+      <span style="color: black; font-weight: bold; font-size: clamp(0.8rem, 3vw, 0.9rem);">
+        ⚡ QUANTUM CORE: 94% ACTIVE ⚡
+      </span>
+    </div>
+  </div>
 </div>
 
-<!-- Image Section - Hidden on very small screens if needed -->
+<!-- Image Section -->
 <div style="
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   width: 100%;
-  min-width: 0; /* Prevents overflow */
+  min-width: 0;
 ">
   <img 
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVlYzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/78XCFBGOlS6keY1Bil/giphy.gif" 
@@ -173,19 +195,78 @@
       border-radius: 20px;
       box-shadow: 0 0 40px rgba(255, 0, 255, 0.6);
       display: block;
+      transition: all 0.5s ease;
     "
     loading="lazy"
   />
+  
+  <!-- بصمة رقمية أسفل الصورة -->
+  <div style="
+    margin-top: 15px;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 10px 15px;
+    border-radius: 30px;
+    border: 2px solid #00FF00;
+    text-align: center;
+    width: fit-content;
+  ">
+    <code style="color: #00FF00; font-size: clamp(0.7rem, 2.5vw, 0.8rem);">
+      $ quantum --status → ONLINE
+    </code>
+  </div>
 </div>
 
 </div> <!-- End Grid -->
+
+<!-- عداد الزوار الكمي -->
+<div style="
+  margin-top: 25px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  align-items: center;
+">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=EminJohnson.EminJohnson&left_text=QUANTUM%20VISITORS&right_color=8A2BE2&left_color=00FFFF" />
+  <span style="color: #FF00FF; text-shadow: 0 0 10px magenta; font-size: 1.2rem;">⚡</span>
+  <span style="color: #00FFFF; font-size: clamp(0.8rem, 2.5vw, 0.9rem);">QUANTUM ENTANGLED</span>
+</div>
 
 </div> <!-- End Flex Container -->
 
 </div> <!-- End Main Card -->
 
-<!-- Small screen optimization note -->
+<!-- Styles for animations and responsiveness -->
 <style>
+  /* تأثيرات تفاعلية */
+  div[style*="backdrop-filter"]:hover {
+    border-color: #FF00FF !important;
+    box-shadow: 0 0 60px #8A2BE2, inset 0 0 30px #00FFFF !important;
+    transition: all 0.5s ease;
+  }
+  
+  img[alt="Cyberpunk Animation"]:hover {
+    transform: scale(1.02) rotate(1deg);
+    transition: transform 0.5s ease;
+    box-shadow: 0 0 60px #FF00FF, 0 0 30px #00FFFF !important;
+  }
+  
+  li:hover {
+    transform: translateX(5px);
+    transition: transform 0.3s ease;
+    background: rgba(0, 255, 255, 0.1);
+    border-radius: 10px;
+    padding-left: 10px;
+  }
+  
+  /* أنيميشن النبض */
+  @keyframes pulse {
+    0% { opacity: 0.9; }
+    50% { opacity: 1; }
+    100% { opacity: 0.9; }
+  }
+  
+  /* تحسينات للهواتف الصغيرة */
   @media (max-width: 480px) {
     div[style*="backdrop-filter"] {
       padding: 12px !important;
@@ -194,7 +275,20 @@
       font-size: 0.9rem !important;
     }
   }
-  /* Ensure text doesn't overflow */
+  
+  @media (max-width: 360px) {
+    li {
+      font-size: 0.85rem !important;
+    }
+    h2 {
+      font-size: 1.1rem !important;
+    }
+    div[style*="backdrop-filter"] {
+      padding: 8px !important;
+    }
+  }
+  
+  /* منع تجاوز النص */
   li span:last-child {
     overflow-wrap: break-word;
     word-wrap: break-word;
@@ -203,7 +297,6 @@
 </style>
 
 </div>
-
 <br/>
 <!-- Tech Stack - Modern Glassmorphism Cards -->
 <h2 align="center">🛠️ Modern Tech Stack</h2>
