@@ -49,7 +49,7 @@
 <!-- About Me - Holographic Card -->
 <div align="center">
   <table style="background: linear-gradient(145deg, rgba(106, 13, 173, 0.2) 0%, rgba(0, 255, 255, 0.1) 100%); border-radius: 20px; border: 2px solid rgba(0, 255, 255, 0.3); box-shadow: 0 0 40px rgba(148, 0, 211, 0.3), inset 0 0 20px rgba(0, 255, 255, 0.2); backdrop-filter: blur(10px);">
-    <tr>
+
       <td style="padding: 30px;">
         <h2 style="color: #00FFFF; text-shadow: 0 0 15px cyan;">🧬 SYSTEM_PROFILE.EXE</h2>
         <ul style="list-style-type: none; padding: 0;">
