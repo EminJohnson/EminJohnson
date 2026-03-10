@@ -87,61 +87,6 @@
   />
 
 
-<div style="position: relative; display: inline-block;">
-  
-  <img 
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVlYzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/78XCFBGOlS6keY1Bil/giphy.gif" 
-    alt="Quantum Cyberpunk Hologram"
-    style="
-      max-width: 100%;
-      height: auto;
-      width: clamp(250px, 40vw, 350px);
-      border-radius: 25px;
-      border: 3px solid #FF00FF;
-      box-shadow: 0 0 50px #FF00FF, 0 0 100px #00FFFF, 0 0 150px #8A2BE2;
-      display: block;
-      transition: all 0.5s ease;
-      transform: rotate(0deg) scale(1);
-    "
-    onmouseover="this.style.transform='rotate(2deg) scale(1.02)'; this.style.boxShadow='0 0 80px #FF00FF, 0 0 150px #00FFFF'"
-    onmouseout="this.style.transform='rotate(0deg) scale(1)'; this.style.boxShadow='0 0 50px #FF00FF, 0 0 100px #00FFFF, 0 0 150px #8A2BE2'"
-    loading="lazy"
-  />
-  
-
-  <div style="
-    position: absolute;
-    top: 15px;
-    left: 15px;
-    background: rgba(0, 0, 0, 0.85);
-    padding: 8px 18px;
-    border-radius: 40px;
-    border: 2px solid #00FFFF;
-    box-shadow: 0 0 30px #00FFFF;
-    backdrop-filter: blur(5px);
-    animation: floatLeft 3s infinite ease-in-out;
-  ">
-    <span style="color: #00FFFF; font-weight: bold; font-size: clamp(12px, 2vw, 14px); display: flex; align-items: center; gap: 5px;">
-      <span style="display: inline-block; width: 10px; height: 10px; background: #00FFFF; border-radius: 50%; animation: pulse 1.5s infinite;"></span>
-      QUANTUM CORE
-    </span>
-  </div>
-  
- 
-  <div style="
-    position: absolute;
-    top: 15px;
-    right: 15px;
-    background: rgba(0, 0, 0, 0.85);
-    padding: 8px 18px;
-    border-radius: 40px;
-    border: 2px solid #FF00FF;
-    box-shadow: 0 0 30px #FF00FF;
-    backdrop-filter: blur(5px);
-    animation: floatRight 3s infinite ease-in-out;
-  ">
-    <span style="color: #FF00FF; font-weight: bold; font-size: clamp(12px, 2vw, 14px);">⚡ v2.0</span>
-  </div>
   
 <br/>
 <!-- Tech Stack - Modern Glassmorphism Cards -->
