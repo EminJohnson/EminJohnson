@@ -66,12 +66,12 @@
 </div>
 
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVlYzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif" width="300" height="300" style="border-radius: 50%; border: 4px solid #00FFFF; box-shadow: 0 0 50px #FF00FF, 0 0 100px #00FFFF;" alt="3D Avatar"/>
 
 
-<!-- حاوية الصورة مع تأثيرات -->
 <div style="position: relative; display: inline-block;">
   
-  <!-- الصورة الرئيسية -->
   <img 
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVlYzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/78XCFBGOlS6keY1Bil/giphy.gif" 
     alt="Quantum Cyberpunk Hologram"
@@ -91,7 +91,7 @@
     loading="lazy"
   />
   
-  <!-- شارة علوية يسار (Quantum Core) -->
+
   <div style="
     position: absolute;
     top: 15px;
@@ -110,7 +110,7 @@
     </span>
   </div>
   
-  <!-- شارة علوية يمين (v2.0) -->
+ 
   <div style="
     position: absolute;
     top: 15px;
