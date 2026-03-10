@@ -156,6 +156,21 @@
 
 <!-- FOOTER - Enhanced -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,25:4B0082,50:9400D3,75:00BFFF,100:8A2BE2&height=220&section=footer&text=⚡%20Researcher%20PORTAL%20CLOSING%20⚡&fontSize=26&fontColor=fff&animation=twinkling&desc=See%20you%20in%20another%20dimension...%20🌌&descAlignY=70&descSize=20&descColor=FF00FF"/>
+---
+## 📄 License & Copyright | الترخيص وحقوق الطبع والنشر
+
+Copyright (c) 2026 Abdelhamid Med Amine. All rights reserved.
+
+
+This project is NOT licensed for public use, copying, or distribution. 
+No one is permitted to use, modify, or redistribute this README template 
+without explicit written permission from the author.
+
+:
+جميع الحقوق محفوظة © 2026. 
+هذا المشروع غير مرخص للاستخدام العام أو النسخ أو التوزيع. 
+لا يُسمح لأي شخص باستخدام هذا القالب أو تعديله أو إعادة توزيعه 
+دون إذن كتابي صريح من صاحب العمل.
 
 <!-- Hidden ASCII Art -->
 <!-- 
