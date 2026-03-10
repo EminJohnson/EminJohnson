@@ -236,65 +236,6 @@
 
 </div> <!-- End Main Card -->
 
-<!-- Styles for animations and responsiveness -->
-<style>
-  /* تأثيرات تفاعلية */
-  div[style*="backdrop-filter"]:hover {
-    border-color: #FF00FF !important;
-    box-shadow: 0 0 60px #8A2BE2, inset 0 0 30px #00FFFF !important;
-    transition: all 0.5s ease;
-  }
-  
-  img[alt="Cyberpunk Animation"]:hover {
-    transform: scale(1.02) rotate(1deg);
-    transition: transform 0.5s ease;
-    box-shadow: 0 0 60px #FF00FF, 0 0 30px #00FFFF !important;
-  }
-  
-  li:hover {
-    transform: translateX(5px);
-    transition: transform 0.3s ease;
-    background: rgba(0, 255, 255, 0.1);
-    border-radius: 10px;
-    padding-left: 10px;
-  }
-  
-  /* أنيميشن النبض */
-  @keyframes pulse {
-    0% { opacity: 0.9; }
-    50% { opacity: 1; }
-    100% { opacity: 0.9; }
-  }
-  
-  /* تحسينات للهواتف الصغيرة */
-  @media (max-width: 480px) {
-    div[style*="backdrop-filter"] {
-      padding: 12px !important;
-    }
-    ul[style*="list-style"] li {
-      font-size: 0.9rem !important;
-    }
-  }
-  
-  @media (max-width: 360px) {
-    li {
-      font-size: 0.85rem !important;
-    }
-    h2 {
-      font-size: 1.1rem !important;
-    }
-    div[style*="backdrop-filter"] {
-      padding: 8px !important;
-    }
-  }
-  
-  /* منع تجاوز النص */
-  li span:last-child {
-    overflow-wrap: break-word;
-    word-wrap: break-word;
-    hyphens: auto;
-  }
-</style>
 
 </div>
 <br/>
