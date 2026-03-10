@@ -69,7 +69,7 @@
 
 
 
-<div align="center">
+<div align="left">
   
 <!-- SYSTEM_PROFILE.EXE - Holographic Card -->
 <div style="
