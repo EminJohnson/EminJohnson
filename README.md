@@ -38,7 +38,7 @@
   </a>
 </p>
 
-<!-- Visitor Badge - تم إصلاح الإغلاق -->
+<!-- Visitor Badge  -->
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=EminJohnson.EminJohnson&left_text=QUANTUM%20VISITORS&right_color=8A2BE2&left_color=00FFFF" />
   <h4 style="color: #FF00FF; text-shadow: 0 0 15px magenta;">⚡ QUANTUM ENTANGLEMENT: ACTIVE ⚡</h4>
@@ -68,13 +68,6 @@
 </div>
 
 <br/>
-
-<!-- GITHUB TROPHIES - إضافة جديدة -->
-<h2 align="center" style="color: #FF00FF; text-shadow: 0 0 20px magenta; font-size: 36px;">🏆 ACHIEVEMENTS_UNLOCKED</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EminJohnson&theme=radical&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=8&row=1" width="100%" style="border-radius: 30px; border: 3px solid #00FFFF; box-shadow: 0 0 60px #00FFFF;" />
-</p>
-
 <!-- Tech Stack - Modern Glassmorphism Cards -->
 <h2 align="center">🛠️ Modern Tech Stack</h2>
 <div align="center">
@@ -128,13 +121,6 @@
 
 <br/>
 
-<!-- GITHUB STATS - إضافة جديدة -->
-<h2 align="center" style="color: #00FFFF; text-shadow: 0 0 20px cyan; font-size: 36px;">⚡ QUANTUM_STATS</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EminJohnson&show_icons=true&theme=radical&bg_color=000000&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&border_color=8A2BE2&border_radius=20&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EminJohnson&layout=compact&theme=radical&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=8A2BE2&border_radius=20" width="48%" />
-</p>
-
 <!-- STREAK STATS - Enhanced -->
 <h2 align="center" style="color: #FF00FF; text-shadow: 0 0 20px magenta;">🔥 QUANTUM_ENERGY_MATRIX</h2>
 <p align="center">
@@ -163,13 +149,13 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EminJohnson&theme=radical&hide_border=true&utcOffset=1" style="border: 3px solid #FF00FF; border-radius: 20px; box-shadow: 0 0 40px #FF00FF; margin: 10px;" />
 </p>
 
-<!-- QUOTE OF THE DAY - إضافة جديدة -->
+<!-- QUOTE OF THE DAY  -->
 <h2 align="center" style="color: #FF00FF; text-shadow: 0 0 20px magenta; font-size: 36px;">💭 QUANTUM_THOUGHT</h2>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%"/>
 </p>
 
-<!-- Support Buttons - إضافة جديدة (اختياري) -->
+<!-- Support Buttons -->
 <p align="center">
   <a href="https://www.buymeacoffee.com/yourusername">
     <img src="https://img.shields.io/badge/☕_BUY_QUANTUM_COFFEE-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&labelColor=8A2BE2&color=FF00FF" />
