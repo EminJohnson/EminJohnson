@@ -142,10 +142,10 @@
 
 <br/>
 
-<!-- STREAK STATS - Enhanced -->
+<!-- STREAK STATS - Enhanced  -->
 <h2 align="center" style="color: #FF00FF; text-shadow: 0 0 20px magenta;">🔥 QUANTUM_ENERGY_MATRIX</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EminJohnson&theme=radical&hide_border=true&border_radius=20&date_format=M%20j%5B%2C%20Y%5D&background=0,000000,2E0854&stroke=00FFFF&ring=FF00FF&fire=FF00FF&currStreakNum=00FFFF&sideNums=FF00FF&currStreakLabel=FF00FF&sideLabels=FFFFFF&dates=00FFFF" width="90%"/>
+  <img src="https://streak-stats.demolab.com?user=EminJohnson&theme=radical&hide_border=true&border_radius=20&date_format=M%20j%5B%2C%20Y%5D&background=0,000000,2E0854&stroke=00FFFF&ring=FF00FF&fire=FF00FF&currStreakNum=00FFFF&sideNums=FF00FF&currStreakLabel=FF00FF&sideLabels=FFFFFF&dates=00FFFF" width="90%"/>
 </p>
 
 <!-- ACTIVITY GRAPH - Neural Network Style -->
@@ -215,8 +215,3 @@ without explicit written permission from the author.
 -->
 
 <!-- ⚡ SYSTEM: QUANTUM_ARCHITECT_2026 | STATUS: ONLINE | ENCRYPTION: ACTIVE ⚡ -->
-<!-- STREAK STATS - Enhanced (باستخدام الرابط الجديد) -->
-<h2 align="center" style="color: #FF00FF; text-shadow: 0 0 20px magenta;">🔥 QUANTUM_ENERGY_MATRIX</h2>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=EminJohnson&theme=radical&hide_border=true&border_radius=20&date_format=M%20j%5B%2C%20Y%5D&background=0,000000,2E0854&stroke=00FFFF&ring=FF00FF&fire=FF00FF&currStreakNum=00FFFF&sideNums=FF00FF&currStreakLabel=FF00FF&sideLabels=FFFFFF&dates=00FFFF" width="90%"/>
-</p>
