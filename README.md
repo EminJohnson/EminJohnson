@@ -68,174 +68,191 @@
 </div>
 
 
-
-<div align="left">
+<div align="center">
   
-<!-- SYSTEM_PROFILE.EXE - Holographic Card -->
+<!-- QUANTUM HOLOGRAM - Standalone Image Card -->
 <div style="
-  background: linear-gradient(145deg, rgba(106, 13, 173, 0.2) 0%, rgba(0, 255, 255, 0.1) 100%);
-  border-radius: 20px;
-  border: 2px solid rgba(0, 255, 255, 0.3);
-  box-shadow: 0 0 40px rgba(148, 0, 211, 0.3), inset 0 0 20px rgba(0, 255, 255, 0.2);
-  backdrop-filter: blur(10px);
-  padding: 20px;
+  background: linear-gradient(145deg, rgba(106, 13, 173, 0.15) 0%, rgba(0, 255, 255, 0.1) 100%);
+  border-radius: 30px;
+  border: 2px solid rgba(0, 255, 255, 0.4);
+  box-shadow: 0 0 50px rgba(148, 0, 211, 0.5), inset 0 0 30px rgba(0, 255, 255, 0.3);
+  backdrop-filter: blur(8px);
+  padding: 25px;
+  display: inline-block;
   max-width: 100%;
-  width: fit-content;
-  margin: 0 auto;
-  transition: all 0.3s ease;
-  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+  transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  font-family: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  position: relative;
+  overflow: hidden;
 ">
 
-<!-- Mobile-First Flex Container -->
-<div style="
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 20px;
-  width: 100%;
-">
-
-<!-- Header Section - Always Visible -->
-<div style="width: 100%;">
-  <h2 style="
-    color: #00FFFF;
-    text-shadow: 0 0 15px cyan;
-    margin: 0 0 15px 0;
-    font-size: clamp(1.2rem, 5vw, 1.8rem);
-    text-align: center;
-    word-break: break-word;
-  ">
-    🧬 SYSTEM_PROFILE.EXE
-  </h2>
-</div>
-
-<!-- Content Grid - Responsive Layout -->
-<div style="
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 20px;
-  width: 100%;
-  align-items: center;
-">
-
-<!-- Text Content -->
-<div style="
-  padding: 10px;
-  width: 100%;
-">
-  <ul style="
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-    color: #e0e0ff;
-    font-size: clamp(0.9rem, 4vw, 1rem);
-  ">
-    <li style="margin-bottom: 12px; display: flex; align-items: center; gap: 8px; transition: all 0.3s ease;">
-      <span style="color: #00FFFF; text-shadow: 0 0 8px cyan;">🇩🇿</span>
-      <span style="word-break: break-word;"><b>Based in Algeria</b></span>
-    </li>
-    <li style="margin-bottom: 12px; display: flex; align-items: flex-start; gap: 8px; transition: all 0.3s ease;">
-      <span style="color: #00FFFF; text-shadow: 0 0 8px cyan;">🔭</span>
-      <span style="word-break: break-word;"><b>Role:</b> Independent Researcher & Web Systems Architect</span>
-    </li>
-    <li style="margin-bottom: 12px; display: flex; align-items: flex-start; gap: 8px; transition: all 0.3s ease;">
-      <span style="color: #00FFFF; text-shadow: 0 0 8px cyan;">📚</span>
-      <span style="word-break: break-word;"><b>Interests:</b> Distributed Systems, Clean Architecture, High-Performance Computing</span>
-    </li>
-    <li style="margin-bottom: 12px; display: flex; align-items: flex-start; gap: 8px; transition: all 0.3s ease;">
-      <span style="color: #00FFFF; text-shadow: 0 0 8px cyan;">⚡</span>
-      <span style="word-break: break-word;"><b>Aspirations:</b> Contributing to the future of decentralized web architectures</span>
-    </li>
-    <li style="margin-bottom: 12px; display: flex; align-items: flex-start; gap: 8px; transition: all 0.3s ease;">
-      <span style="color: #00FFFF; text-shadow: 0 0 8px cyan;">👩‍💻</span>
-      <span style="word-break: break-word;"><b>Status:</b> Currently deep-diving into Advanced CS Theory</span>
-    </li>
-  </ul>
-
-  <!-- شريط الحالة الكمي -->
-  <div style="
-    margin-top: 25px;
-    background: rgba(0, 0, 0, 0.5);
-    border-radius: 30px;
-    padding: 5px;
-    border: 2px solid #FF00FF;
-    box-shadow: 0 0 20px #FF00FF;
-  ">
-    <div style="
-      background: linear-gradient(90deg, #FF00FF, #00FFFF, #8A2BE2);
-      width: 94%;
-      padding: 8px;
-      border-radius: 30px;
-      text-align: center;
-      animation: pulse 2s infinite;
-    ">
-      <span style="color: black; font-weight: bold; font-size: clamp(0.8rem, 3vw, 0.9rem);">
-        ⚡ QUANTUM CORE: 94% ACTIVE ⚡
-      </span>
-    </div>
-  </div>
-</div>
-
-<!-- Image Section -->
-<div style="
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-  min-width: 0;
-">
+<!-- حاوية الصورة مع تأثيرات -->
+<div style="position: relative; display: inline-block;">
+  
+  <!-- الصورة الرئيسية -->
   <img 
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVlYzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZjQ5YzUwZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/78XCFBGOlS6keY1Bil/giphy.gif" 
-    alt="Cyberpunk Animation"
+    alt="Quantum Cyberpunk Hologram"
     style="
       max-width: 100%;
       height: auto;
-      width: clamp(200px, 50vw, 280px);
-      border-radius: 20px;
-      box-shadow: 0 0 40px rgba(255, 0, 255, 0.6);
+      width: clamp(250px, 40vw, 350px);
+      border-radius: 25px;
+      border: 3px solid #FF00FF;
+      box-shadow: 0 0 50px #FF00FF, 0 0 100px #00FFFF, 0 0 150px #8A2BE2;
       display: block;
       transition: all 0.5s ease;
+      transform: rotate(0deg) scale(1);
     "
+    onmouseover="this.style.transform='rotate(2deg) scale(1.02)'; this.style.boxShadow='0 0 80px #FF00FF, 0 0 150px #00FFFF'"
+    onmouseout="this.style.transform='rotate(0deg) scale(1)'; this.style.boxShadow='0 0 50px #FF00FF, 0 0 100px #00FFFF, 0 0 150px #8A2BE2'"
     loading="lazy"
   />
   
-  <!-- بصمة رقمية أسفل الصورة -->
+  <!-- شارة علوية يسار (Quantum Core) -->
   <div style="
-    margin-top: 15px;
-    background: rgba(0, 0, 0, 0.7);
-    padding: 10px 15px;
-    border-radius: 30px;
-    border: 2px solid #00FF00;
-    text-align: center;
-    width: fit-content;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    background: rgba(0, 0, 0, 0.85);
+    padding: 8px 18px;
+    border-radius: 40px;
+    border: 2px solid #00FFFF;
+    box-shadow: 0 0 30px #00FFFF;
+    backdrop-filter: blur(5px);
+    animation: floatLeft 3s infinite ease-in-out;
   ">
-    <code style="color: #00FF00; font-size: clamp(0.7rem, 2.5vw, 0.8rem);">
-      $ quantum --status → ONLINE
-    </code>
+    <span style="color: #00FFFF; font-weight: bold; font-size: clamp(12px, 2vw, 14px); display: flex; align-items: center; gap: 5px;">
+      <span style="display: inline-block; width: 10px; height: 10px; background: #00FFFF; border-radius: 50%; animation: pulse 1.5s infinite;"></span>
+      QUANTUM CORE
+    </span>
   </div>
+  
+  <!-- شارة علوية يمين (v2.0) -->
+  <div style="
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    background: rgba(0, 0, 0, 0.85);
+    padding: 8px 18px;
+    border-radius: 40px;
+    border: 2px solid #FF00FF;
+    box-shadow: 0 0 30px #FF00FF;
+    backdrop-filter: blur(5px);
+    animation: floatRight 3s infinite ease-in-out;
+  ">
+    <span style="color: #FF00FF; font-weight: bold; font-size: clamp(12px, 2vw, 14px);">⚡ v2.0</span>
+  </div>
+  
+  <!-- شارة سفلية يسار (AI) -->
+  <div style="
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+    background: rgba(0, 0, 0, 0.85);
+    padding: 8px 18px;
+    border-radius: 40px;
+    border: 2px solid #8A2BE2;
+    box-shadow: 0 0 30px #8A2BE2;
+    backdrop-filter: blur(5px);
+  ">
+    <span style="color: #8A2BE2; font-weight: bold; font-size: clamp(12px, 2vw, 14px); display: flex; align-items: center; gap: 5px;">
+      <span>🤖</span> NEURAL AI
+    </span>
+  </div>
+  
+  <!-- شارة سفلية يمين (99.9%) -->
+  <div style="
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+    background: rgba(0, 0, 0, 0.85);
+    padding: 8px 18px;
+    border-radius: 40px;
+    border: 2px solid #00FF00;
+    box-shadow: 0 0 30px #00FF00;
+    backdrop-filter: blur(5px);
+  ">
+    <span style="color: #00FF00; font-weight: bold; font-size: clamp(12px, 2vw, 14px);">🔋 99.9%</span>
+  </div>
+  
 </div>
 
-</div> <!-- End Grid -->
-
-<!-- عداد الزوار الكمي -->
+<!-- عنوان أسفل الصورة -->
 <div style="
-  margin-top: 25px;
-  display: flex;
-  justify-content: center;
-  gap: 10px;
-  flex-wrap: wrap;
+  margin-top: 20px;
+  background: rgba(0, 0, 0, 0.6);
+  padding: 12px 20px;
+  border-radius: 50px;
+  border: 2px solid #FF00FF;
+  box-shadow: 0 0 30px #FF00FF;
+  display: inline-flex;
   align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+  justify-content: center;
 ">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=EminJohnson.EminJohnson&left_text=QUANTUM%20VISITORS&right_color=8A2BE2&left_color=00FFFF" />
-  <span style="color: #FF00FF; text-shadow: 0 0 10px magenta; font-size: 1.2rem;">⚡</span>
-  <span style="color: #00FFFF; font-size: clamp(0.8rem, 2.5vw, 0.9rem);">QUANTUM ENTANGLED</span>
+  <span style="color: #00FFFF; font-weight: bold; font-size: clamp(14px, 3vw, 16px);">🧬 QUANTUM HOLOGRAM</span>
+  <span style="color: #FF00FF; font-size: 20px;">✦</span>
+  <span style="color: #FFFFFF; font-size: clamp(12px, 2.5vw, 14px);">ACTIVE</span>
+  <span style="color: #00FF00; font-size: 14px; display: flex; align-items: center; gap: 5px;">
+    <span style="display: inline-block; width: 8px; height: 8px; background: #00FF00; border-radius: 50%; animation: pulse 1s infinite;"></span>
+    ONLINE
+  </span>
 </div>
 
-</div> <!-- End Flex Container -->
+<!-- سطر الأوامر السفلي (اختياري) -->
+<div style="
+  margin-top: 15px;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 10px 20px;
+  border-radius: 30px;
+  border: 2px solid #00FFFF;
+  display: inline-block;
+">
+  <code style="color: #00FFFF; font-size: clamp(11px, 2vw, 13px);">
+    $ quantum --hologram --render --quality=max
+  </code>
+</div>
 
-</div> <!-- End Main Card -->
+</div>
 
+<!-- Styles للحركات -->
+<style>
+  @keyframes pulse {
+    0% { opacity: 0.6; transform: scale(1); }
+    50% { opacity: 1; transform: scale(1.2); }
+    100% { opacity: 0.6; transform: scale(1); }
+  }
+  
+  @keyframes floatLeft {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-5px); }
+    100% { transform: translateY(0px); }
+  }
+  
+  @keyframes floatRight {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-8px); }
+    100% { transform: translateY(0px); }
+  }
+  
+  /* تأثير hover على البطاقة بأكملها */
+  div[style*="backdrop-filter"]:hover {
+    border-color: #FF00FF !important;
+    box-shadow: 0 0 80px #8A2BE2, 0 0 150px #00FFFF !important;
+  }
+  
+  /* تحسينات للهاتف */
+  @media (max-width: 480px) {
+    div[style*="position: absolute"] {
+      padding: 5px 12px !important;
+    }
+    div[style*="position: absolute"] span {
+      font-size: 10px !important;
+    }
+  }
+</style>
 
 </div>
 <br/>
