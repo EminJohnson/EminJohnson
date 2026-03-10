@@ -61,7 +61,7 @@
         </ul>
       </td>
      
-    </tr>
+   
   </table>
 </div>
 
