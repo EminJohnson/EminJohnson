@@ -174,7 +174,7 @@
 <h2 align="center" style="color: #00FFFF; text-shadow: 0 0 20px cyan;">⚡ QUANTUM_STATS</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EminJohnson&show_icons=true&theme=radical&bg_color=000000&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&border_color=8A2BE2&border_radius=20&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EminJohnson&layout=compact&theme=radical&bg_color=000000&title_color=FF00FF&text_color=00FFFF&border_color=8A2BE2&border_radius=20" width="48%" />
+
 </p>
 
 <!-- QUOTE OF THE DAY  -->
