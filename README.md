@@ -170,13 +170,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=EminJohnson&theme=radical&hide_border=true&utcOffset=1" style="border: 3px solid #FF00FF; border-radius: 20px; box-shadow: 0 0 40px #FF00FF; margin: 10px;" />
 </p>
 
-<!-- إضافة GITHUB STATS الأساسية (تظهر فوراً) -->
-<h2 align="center" style="color: #00FFFF; text-shadow: 0 0 20px cyan;">⚡ QUANTUM_STATS</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EminJohnson&show_icons=true&theme=radical&bg_color=000000&title_color=FF00FF&icon_color=00FFFF&text_color=FFFFFF&border_color=8A2BE2&border_radius=20&count_private=true" width="48%" />
-
-</p>
-
 <!-- Support Buttons -->
 <p align="center">
   <a href="https://www.buymeacoffee.com/yourusername">
