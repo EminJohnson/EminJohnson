@@ -1,5 +1,5 @@
 <!-- HEADER - Mystic Neon Wave with 3D Effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,20:4B0082,40:9400D3,60:00BFFF,80:4B0082,100:8A2BE2&height=300&section=header&text=⚡%20Abdelhamid%20Med%20Amine%20⚡&fontSize=42&fontColor=fff&animation=twinkling&desc=Aspiring%20Software%20Engineer%20%7C%20Cpp%20Logic%20Building%20%7C%20Focused%20on%20High-Performance%20and%20Clean%20Code&descSize=18&descAlignY=65&descColor=00FFFF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,20:4B0082,40:9400D3,60:00BFFF,80:4B0082,100:8A2BE2&height=300&section=header&text=⚡%20Abdelhamid%20Med%20Amine%20⚡&fontSize=42&fontColor=fff&animation=twinkling&desc=Aspiring%20Software%20Engineer%20%7C%20CPP%20Logic%20Building%20%7C%20Focused%20on%20High-Performance%20and%20Clean%20Code&descSize=18&descAlignY=65&descColor=00FFFF"/>
 
 <!-- 3D Avatar with Glitch Effect -->
 <div align="center">
@@ -7,7 +7,7 @@
 
   <!-- Animated Matrix Rain Text -->
   <h2>
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=32&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E_+System+Boot+Sequence+Initiated...;%3E_+Aspiring+Software+Engineer;%3E_+Logic+Building;%3E_+Focused+on+High-Performance+&+Clean+Code;%3E_+Welcome+to+the+Future+%F0%9F%9A%80" alt="Matrix Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=32&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E_+System+Boot+Sequence+Initiated...;%3E_+Aspiring+Software+Engineer;%3E_+CPP+Logic+Building;%3E_+Focused+on+High-Performance+&+Clean+Code;%3E_+Welcome+to+the+Future+%F0%9F%9A%80" alt="Matrix Typing SVG" />
   </h2>
 
   <!-- Bio Card with Neon Gradient -->
