@@ -56,7 +56,7 @@
           <li>🇩🇿 <b>Based in Algeria</b></li>
           <li>🔭 <b>Role:</b> Independent Researcher & Web Systems Architect</li>
           <li>📚 <b>Interests:</b> Distributed Systems, Clean Architecture, High-Performance Computing</li>
-          <li>⚡ <b>Aspirations:</b> Contributing to the future of decentralized web architectures</li>
+          <li>⚡ <b>Aspirations:</b> Aspiring Software Engineer </li>
           <li>👩‍💻 <b>Status:</b> Currently deep-diving into Advanced CS Theory</li>
         </ul>
       </td>
