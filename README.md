@@ -53,11 +53,11 @@
       <td style="padding: 30px;">
         <h2 style="color: #00FFFF; text-shadow: 0 0 15px cyan;">🧬 SYSTEM_PROFILE.EXE</h2>
         <ul style="list-style-type: none; padding: 0;">
-          <li>🇩🇿 <b>Based in Algeria</b></li>
-          <li>🔭 <b>Role:</b> Independent Researcher & Web Systems Architect</li>
-          <li>📚 <b>Interests:</b> Distributed Systems, Clean Architecture, High-Performance Computing</li>
-          <li>⚡ <b>Aspirations:</b> Aspiring Software Engineer </li>
-          <li>👩‍💻 <b>Status:</b> Currently deep-diving into Advanced CS Theory</li>
+            <li>🇩🇿 <b>Based in Algeria</b></li>
+            <li>🔭 <b>Role:</b> Aspiring Software Engineer | Systems & Architecture</li>
+            <li>📚 <b>Interests:</b> C++ & Logic Building | High-Performance & Clean Code</li>
+            <li>⚡ <b>Aspirations:</b> Building Scalable Web Systems & Advanced Algorithmic Solutions</li>
+            <li>👩‍💻 <b>Status:</b> Currently deep-diving into Advanced CS Theory (Level 2)</li>
         </ul>
       </td>
      
