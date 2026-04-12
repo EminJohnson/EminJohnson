@@ -223,14 +223,16 @@ without explicit written permission from the author.
 
 <!-- ⚡ SYSTEM: QUANTUM_ARCHITECT_2026 | STATUS: ONLINE | ENCRYPTION: ACTIVE ⚡ -->
 
-<!-- STREAK STATS - المحدث والأسرع -->
-<h2 align="center" style="color: #FF00FF; text-shadow: 0 0 20px magenta;">🔥 QUANTUM_ENERGY_MATRIX</h2>
+<!-- STATS CARDS - أداء مستقر وعالي -->
+<h2 align="center" style="color: #FF00FF; text-shadow: 0 0 20px magenta;">📊 QUANTUM_METRICS_DASHBOARD</h2>
 <p align="center">
-  <img src="https://herokuapp.com" width="90%" alt="GitHub Streak Stats" />
+  <img src="https://vercel.app" width="48%" />
+  <img src="https://vercel.app" width="48%" />
 </p>
 
-<!-- ACTIVITY GRAPH - النسخة المستقرة -->
-<h2 align="center" style="color: #00FFFF; text-shadow: 0 0 20px cyan;">📡 NEURAL_ACTIVITY_SCAN_2049</h2>
+<!-- STREAK STATS - نسخة الهيروكو الرسمية -->
+<h2 align="center" style="color: #FF00FF; text-shadow: 0 0 20px magenta;">🔥 QUANTUM_ENERGY_MATRIX</h2>
 <p align="center">
-  <img src="https://vercel.app" width="95%" alt="Activity Graph" />
+  <img src="https://herokuapp.com" width="90%" />
 </p>
+
