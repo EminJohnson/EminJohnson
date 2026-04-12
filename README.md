@@ -223,14 +223,14 @@ without explicit written permission from the author.
 
 <!-- ⚡ SYSTEM: QUANTUM_ARCHITECT_2026 | STATUS: ONLINE | ENCRYPTION: ACTIVE ⚡ -->
 
-<!-- STREAK STATS - Enhanced -->
+<!-- STREAK STATS - المحدث والأسرع -->
 <h2 align="center" style="color: #FF00FF; text-shadow: 0 0 20px magenta;">🔥 QUANTUM_ENERGY_MATRIX</h2>
 <p align="center">
-  <img src="https://demolab.com" width="90%""")/>>
+  <img src="https://herokuapp.com" width="90%" alt="GitHub Streak Stats" />
 </p>
 
-<!-- ACTIVITY GRAPH - Neural Network Style -->
+<!-- ACTIVITY GRAPH - النسخة المستقرة -->
 <h2 align="center" style="color: #00FFFF; text-shadow: 0 0 20px cyan;">📡 NEURAL_ACTIVITY_SCAN_2049</h2>
 <p align="center">
-  <img src="https://vercel.app" width="95%""")/>>
+  <img src="https://vercel.app" width="95%" alt="Activity Graph" />
 </p>
