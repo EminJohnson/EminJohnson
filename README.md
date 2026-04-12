@@ -223,19 +223,3 @@ without explicit written permission from the author.
 
 <!-- ⚡ SYSTEM: QUANTUM_ARCHITECT_2026 | STATUS: ONLINE | ENCRYPTION: ACTIVE ⚡ -->
 
-<!-- STATS CARDS - إحصائيات الحساب -->
-<h2 align="center" style="color: #FF00FF; text-shadow: 0 0 20px magenta;">📊 QUANTUM_METRICS_DASHBOARD</h2>
-<div align="center">
-  <img src="https://vercel.app" width="48%" />
-  <img src="https://vercel.app" width="48%" />
-</div>
-
-<br/>
-
-<!-- ACTIVITY GRAPH - رسم بياني حديث -->
-<h2 align="center" style="color: #00FFFF; text-shadow: 0 0 20px cyan;">📡 NEURAL_ACTIVITY_SCAN_2049</h2>
-<p align="center">
-  <img src="https://vercel.app" width="95%" />
-</p>
-
-
