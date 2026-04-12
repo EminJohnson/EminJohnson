@@ -222,3 +222,65 @@ without explicit written permission from the author.
 -->
 
 <!-- ⚡ SYSTEM: QUANTUM_ARCHITECT_2026 | STATUS: ONLINE | ENCRYPTION: ACTIVE ⚡ -->
+
+<!-- HEADER - Mystic Neon Wave with 3D Effect -->
+<img width="100%" src="https://vercel.app⚡%20Abdelhamid%20Med%20Amine%20⚡&fontSize=42&fontColor=fff&animation=twinkling&desc=Independent%20Researcher%20%7C%20Web%20Architect%20%7C%20Aspiring%20Academic&descSize=18&descAlignY=65&descColor=00FFFF""")/>>
+
+<div align="center">
+  <!-- 3D Avatar with Glitch Effect -->
+  <img src="https://giphy.com" width="250" height="250" style="border-radius: 50%; border: 4px solid #00FFFF; box-shadow: 0 0 30px #FF00FF;" alt="3D Avatar""")/>>
+
+  <!-- Animated Matrix Rain Text -->
+  <h2>
+    <img src="https://demolab.com" alt="Matrix Typing SVG" />
+  </h2>
+
+  <!-- Bio Card with Neon Gradient -->
+  <div style="background: linear-gradient(135deg, rgba(138,43,226,0.9) 0%, rgba(75,0,130,0.9) 50%, rgba(0,191,255,0.9) 100%); padding: 20px; border-radius: 20px; width: 85%; border: 2px solid #FFFFFF; box-shadow: 0 0 40px #00FFFF;">
+    <h3 style="color: #FFFFFF; text-shadow: 0 0 10px cyan; margin: 5px;">🔬 Independent Researcher | 🏗️ Web Architect | 🎓 Aspiring Academic</h3>
+    <p style="color: #FFD700; font-size: 18px; font-style: italic; margin: 5px;">"Bridging the gap between theoretical research and scalable system architecture"</p>
+  </div>
+</div>
+
+<br/>
+
+<!-- Social Media Links (Corrected Telegram tag) -->
+<p align="center">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io""")/>>
+  </a>
+  <a href="mailto:amine23444@gmail.com">
+    <img src="https://shields.io""")/>>
+  </a>
+  <a href="https://t.me" target="_blank">
+    <img src="https://shields.io""")/>>
+  </a>
+  <a href="https://github.com" target="_blank">
+    <img src="https://shields.io""")/>>
+  </a>
+</p>
+
+<br/>
+
+<!-- Tech Stack - Organized by Category -->
+<h2 align="center">🛠️ My Quantum Tech Stack</h2>
+<div align="center">
+  <img src="https://skillicons.dev" />
+</div>
+
+<br/>
+
+<!-- GitHub Metrics -->
+<h2 align="center" style="color: #FF00FF;">📊 Quantum Metrics Dashboard</h2>
+<div align="center">
+  <img src="https://demolab.com" width="48%" />
+  <img src="https://vercel.app" width="48%" />
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+<h2 align="center" style="color: #00FFFF;">📡 Neural Activity Scan</h2>
+<p align="center">
+  <img src="https://vercel.app" width="100%""")/>>
+</p>
