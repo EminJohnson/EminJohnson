@@ -7,13 +7,13 @@
 
   <!-- Animated Matrix Rain Text -->
   <h2>
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=32&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E_+System+Boot+Sequence+Initiated...;%3E_+Independent+Researcher;%3E_+Web+Architect;%3E_+Aspiring+Academic;%3E_+Welcome+to+the+Future+%F0%9F%9A%80" alt="Matrix Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=32&duration=2000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E_+System+Boot+Sequence+Initiated...;%3E_+Aspiring+Software+Engineer;%3E_+C+++&+Logic+Building;%3E_+Focused+on+High-Performance+&+Clean+Code;%3E_+Welcome+to+the+Future+%F0%9F%9A%80" alt="Matrix Typing SVG" />
   </h2>
 
   <!-- Bio Card with Neon Gradient -->
   <div style="background: linear-gradient(135deg, rgba(138,43,226,0.95) 0%, rgba(75,0,130,0.95) 50%, rgba(0,191,255,0.95) 100%); padding: 30px; border-radius: 40px; width: 85%; margin: 20px auto; border: 4px solid #FFFFFF; box-shadow: 0 0 80px #00FFFF, inset 0 0 40px #FF00FF;">
     <h2 style="color: #FFFFFF; text-shadow: 0 0 20px cyan, 0 0 40px magenta; font-size: 32px; margin: 10px; text-align: center;">
-      🔬 Independent Researcher | 🏗️ Web Architect | 🎓 Aspiring Academic
+          Aspiring Software Engineer | C++ & Logic Building | Focused on High-Performance & Clean Code
     </h2>
     <p style="color: #FFD700; font-size: 24px; text-align: center; text-shadow: 0 0 15px orange; font-style: italic;">
       "Bridging the gap between theoretical research and scalable system architecture"
