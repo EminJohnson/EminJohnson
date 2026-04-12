@@ -223,3 +223,8 @@ without explicit written permission from the author.
 
 <!-- ⚡ SYSTEM: QUANTUM_ARCHITECT_2026 | STATUS: ONLINE | ENCRYPTION: ACTIVE ⚡ -->
 
+<!-- STATS - إحصائيات عامة محدثة -->
+<div align="center">
+  <img src="https://vercel.app" width="48%" />
+  <img src="https://vercel.app" width="48%" />
+</div>
