@@ -1,5 +1,8 @@
 <!-- HEADER - Mystic Neon Wave with 3D Effect -->
 <img src="https://capsule-render.vercel.app/api?type=waving&text=Hello%20World&fontSize=40&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=⚡ Abdelhamid Med Amine ⚡&fontSize=42&fontColor=fff&animation=twinkling&desc=Software%20Engineer%20%7C%20C%23%20%26%20.NET%20Developer&descSize=18&descAlignY=65&descColor=00FFFF"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=C%2B%2B%20%7C%20Frontend%20%26%20WordPress%20%7C%20Former%20Tech%20Instructor&fontSize=18&fontColor=fff&animation=twinkling"/>
 
 
 
