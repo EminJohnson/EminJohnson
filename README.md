@@ -1,6 +1,5 @@
 <!-- HEADER - Mystic Neon Wave with 3D Effect -->
-<img width="100%" <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,20:4B0082,40:9400D3,60:00BFFF,80:4B0082,100:8A2BE2&height=300&section=header&text=⚡%20Abdelhamid%20Med%20Amine%20⚡&fontSize=42&fontColor=fff&animation=twinkling&desc=Software%20Engineer%20%7C%20NET Developer%20Logic%20Building%20%7C%20Focused%20on%20High-Performance%20and%20Clean%20Code&descSize=18&descAlignY=65&descColor=00FFFF"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,20:4B0082,40:9400D3,60:00BFFF,80:4B0082,100:8A2BE2&height=300&section=header&text=⚡%20Abdelhamid%20Med%20Amine%20⚡&fontSize=42&fontColor=fff&animation=twinkling&desc=Aspiring%20Software%20Engineer%20%7C%20CPP%20Logic%20Building%20%7C%20Focused%20on%20High-Performance%20and%20Clean%20Code&descSize=18&descAlignY=65&descColor=00FFFF"/>
 
 
 <!-- 3D Avatar with Glitch Effect -->
