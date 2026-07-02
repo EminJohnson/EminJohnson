@@ -60,10 +60,10 @@
         <h2 style="color: #00FFFF; text-shadow: 0 0 15px cyan;">🧬 SYSTEM_PROFILE.EXE</h2>
         <ul style="list-style-type: none; padding: 0;">
             <li>🇩🇿 <b>Based in Algeria</b></li>
-            <li>🔭 <b>Role:</b> Aspiring Software Engineer | Systems & Architecture</li>
-            <li>📚 <b>Interests:</b> C++ & Logic Building | High-Performance & Clean Code</li>
-            <li>⚡ <b>Aspirations:</b> Building Scalable Web Systems & Advanced Algorithmic Solutions</li>
-            <li>👩‍💻 <b>Status:</b> Currently deep-diving into Advanced CS Theory (Level 2)</li>
+            <li>🔭 <b>Role:</b> Software Engineer | C# & .NET Developer </li>
+            <li>📚 <b>Interests:</b> C++ Algorithm Design | Core Logic Building | High-Performance & Clean Code</li>
+            <li>⚡ <b>Experience:</b> Former Tech Instructor (Frontend Web Development & WordPress Specialist)</li>
+            <li>👩‍💻 <b>Status:</b> Currently deep-diving into Advanced Software Architecture (The Hadhoud Roadmap)</li>
         </ul>
       </td>
      
