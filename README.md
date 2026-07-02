@@ -22,7 +22,7 @@
           Software Engineer | C# & .NET Developer | C++ | Frontend & WordPress | Former Tech Instructor
     </h2>
     <p style="color: #FFD700; font-size: 24px; text-align: center; text-shadow: 0 0 15px orange; font-style: italic;">
-      "Bridging the gap between theoretical research and scalable system architecture"
+      "Bridging the gap between Automation Logic and Scalable Software Architecture"
     </p>
   </div>
 </div>
