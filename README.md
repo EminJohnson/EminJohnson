@@ -19,7 +19,7 @@
   <!-- Bio Card with Neon Gradient -->
   <div style="background: linear-gradient(135deg, rgba(138,43,226,0.95) 0%, rgba(75,0,130,0.95) 50%, rgba(0,191,255,0.95) 100%); padding: 30px; border-radius: 40px; width: 85%; margin: 20px auto; border: 4px solid #FFFFFF; box-shadow: 0 0 80px #00FFFF, inset 0 0 40px #FF00FF;">
     <h2 style="color: #FFFFFF; text-shadow: 0 0 20px cyan, 0 0 40px magenta; font-size: 32px; margin: 10px; text-align: center;">
-          Aspiring Software Engineer | C++ & Logic Building | Focused on High-Performance & Clean Code
+          Software Engineer | C# & .NET Developer | C++ | Frontend & WordPress | Former Tech Instructor
     </h2>
     <p style="color: #FFD700; font-size: 24px; text-align: center; text-shadow: 0 0 15px orange; font-style: italic;">
       "Bridging the gap between theoretical research and scalable system architecture"
