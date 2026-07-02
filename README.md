@@ -1,5 +1,6 @@
 <!-- HEADER - Mystic Neon Wave with 3D Effect -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,20:4B0082,40:9400D3,60:00BFFF,80:4B0082,100:8A2BE2&height=300&section=header&text=⚡ Abdelhamid Med Amine ⚡&fontSize=42&fontColor=fff&animation=twinkling&desc=Software%20Engineer%20%7C%20C%23%20%26%20NET%20Developer%20%7C%20C%2B%2B%20%7C%20Frontend%20%26%20WordPress%20%7C%20Former%20Tech%20Instructor&descSize=18&descAlignY=65&descColor=00FFFF"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,20:4B0082,40:9400D3,60:00BFFF,80:4B0082,100:8A2BE2&height=300&section=header&text=%E2%9A%A1%20Abdelhamid%20Med%20Amine%20%E2%9A%A1&fontSize=42&fontColor=fff&animation=twinkling&desc=Software%20Engineer%20%7C%20C%23%20%26%20.NET%20Developer%20%7C%20C%2B%2B%20%7C%20Frontend%20%26%20WordPress%20%7C%20Former%20Tech%20Instructor&descSize=18&descAlignY=65&descColor=00FFFF"/>
+
 
 
 
